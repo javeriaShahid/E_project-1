@@ -26,3 +26,18 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+
+
+Route::controller(usercontroller::class)->group(function(){
+
+    Route::get('/index','index');
+    Route::get('/contact','contact');
+    Route::get('/blog','blog');
+    Route::get('/event','event');
+    Route::get('/login','login');
+    Route::get('/album','album');
+
+
+
+
+    });
