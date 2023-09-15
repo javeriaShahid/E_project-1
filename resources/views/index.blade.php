@@ -115,7 +115,7 @@
 
                         <!-- Single Album -->
                         <div class="single-album">
-                            <img src="img/bg-img/a5.jpg" alt="">
+                            <img src="img/artist/Asim Azhar 2.webp" alt="">
                             <div class="album-info">
                                 <a href="#">
                                     <h5>Asim Azhar</h5>
@@ -126,12 +126,12 @@
 
                         <!-- Single Album -->
                         <div class="single-album">
-                            <img src="img/bg-img/a6.jpg" alt="">
+                            <img src="img/artist/falak shabir 2.jpg" alt="">
                             <div class="album-info">
                                 <a href="#">
-                                    <h5>The Ustopable</h5>
+                                    <h5>Falak Shabbir</h5>
                                 </a>
-                                <p>Unplugged</p>
+                             
                             </div>
                         </div>
 
@@ -208,7 +208,7 @@
                 <div class="col-12 col-sm-6 col-md-4 col-lg-2">
                     <div class="single-album-area wow fadeInUp" data-wow-delay="300ms">
                         <div class="album-thumb">
-                            <img src="img/artist/atif 2.jpg" alt="">
+                            <img src="img/" alt="">
                         </div>
                         <div class="album-info">
                             <a href="#">
