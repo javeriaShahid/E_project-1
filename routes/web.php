@@ -16,6 +16,12 @@ use App\Http\Controllers\usercontroller;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/index', function(){
+
+return view('index');
+
+
+});
 
 Route::middleware([
     'auth:sanctum',
@@ -28,16 +34,16 @@ Route::middleware([
 });
 
 
-Route::controller(usercontroller::class)->group(function(){
+// Route::controller(usercontroller::class)->group(function(){
 
-    Route::get('/index','index');
-    Route::get('/contact','contact');
-    Route::get('/blog','blog');
-    Route::get('/event','event');
-    Route::get('/login','login');
-    Route::get('/album','album');
-
-
+//     Route::get('/index','index');
+//     Route::get('/contact','contact');
+//     Route::get('/blog','blog');
+//     Route::get('/event','event');
+//     // Route::get('/login','login');
+//     Route::get('/album','album');
 
 
-    });
+
+
+//     });

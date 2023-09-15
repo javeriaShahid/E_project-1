@@ -33,10 +33,10 @@ public function event(){
 return view('event');
 }
 
-public function login(){
+// public function login(){
 
- return view('login');
- }
+//  return view('login');
+//  }
 
 
 
