@@ -67,22 +67,23 @@
                                 <ul>
                                     <li><a href="/index">Home</a></li>
                                     <li><a href="/album">Albums</a></li>
-                                    <li><a href="/event">Music</a></li>
-                                    <li><a href="/blog">Videos</a></li>
+                                    <li><a href="/music">Music</a></li>
+                                    <li><a href="/videos">Videos</a></li>
                                     <li><a href="/contact">Contact</a></li>
                                     <li>  @if (Route::has('login'))
-                        <div class="sm:fixed sm:top-0 sm:right-0 p-6 text-left z-10">
+                        <div class="sm:top-0 text-left">
                             @auth
-                                <a href="{{ url('/dashboard') }}" class="font-semibold text-gray-600 hover:text-gray-900 focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Dashboard</a>
-                            @else
+         @else
                                 <a href="{{ route('login') }}" class="font-semibold text-white-600 hover:text-white-900 focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Log in</a>
-
+<li>
                                 @if (Route::has('register'))
-                                    <a href="{{ route('register') }}" class="ml-4 font-semibold text-gray-600 hover:text-gray-900 focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Register</a>
+                                    <a href="{{ route('register') }}" class="font-semibold text-gray-600 hover:text-gray-900 focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Register</a>
                                 @endif
+                                </li>
                             @endauth
                         </div>
-                    @endif</li>
+                    @endif
+                </li>
                                 </ul>
 
                                 <!-- Login/Register & Cart Button -->
@@ -103,14 +104,63 @@
     </header>
     <!-- ##### Header Area End ##### -->
     @yield('new')
+        <!-- ##### Contact Area Start ##### -->
+        <section class="contact-area section-padding-100 bg-img bg-overlay bg-fixed has-bg-img" style="background-image: url(img/artist/Guitar.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-heading white">
+                        <p>See what’s new</p>
+                        <h2>Get In Touch</h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12">
+                    <!-- Contact Form Area -->
+                    <div class="contact-form-area">
+                        <form action="#" method="post">
+                            <div class="row">
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" id="name" placeholder="Name">
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" id="email" placeholder="E-mail">
+                                    </div>
+                                </div>
+                                <div class="col-lg-4">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" id="subject" placeholder="Subject">
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <textarea name="message" class="form-control" id="message" cols="30" rows="10" placeholder="Message"></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-12 text-center">
+                                    <button class="btn oneMusic-btn mt-30" type="submit">Send <i class="fa fa-angle-double-right"></i></button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Contact Area End ##### -->
     <!-- ##### Footer Area Start ##### -->
     <footer class="footer-area">
         <div class="container">
             <div class="row d-flex flex-wrap align-items-center">
                 <div class="col-12 col-md-6">
-                    <a href="#"><img src="img/core-img/logo.png" alt=""></a>
+                    <a href="#"><img src="img/core-img/sound 2.png" width="70px" height="70px" alt=""></a>
                     <p class="copywrite-text"><a href="#"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Sound
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                 </div>
 

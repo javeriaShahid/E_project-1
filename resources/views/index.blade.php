@@ -36,7 +36,7 @@
                         <div class="col-12">
                             <div class="hero-slides-content text-center">
                                 <h6 data-animation="fadeInUp" data-delay="100ms">Latest album</h6>
-                                <h2 data-animation="fadeInUp" data-delay="300ms">Colorlib Music <span>Colorlib Music</span></h2>
+                                <h2 data-animation="fadeInUp" data-delay="300ms">Sound Music <span>Sound Music</span></h2>
                                 <a data-animation="fadeInUp" data-delay="500ms" href="#" class="btn oneMusic-btn mt-50">Discover <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
@@ -71,45 +71,45 @@
                     <div class="albums-slideshow owl-carousel">
                         <!-- Single Album -->
                         <div class="single-album">
-                            <img src="img/bg-img/a1.jpg" alt="">
+                            <img src="img\artist\atif 9.jpg" alt="">
                             <div class="album-info">
                                 <a href="#">
-                                    <h5>The Cure</h5>
+                                    <h5>Atif Aslam</h5>
                                 </a>
-                                <p>Second Song</p>
+                               
                             </div>
                         </div>
 
                         <!-- Single Album -->
                         <div class="single-album">
-                            <img src="img/bg-img/a2.jpg" alt="">
+                            <img src="img\artist\ali zafar 4.jpg" alt="">
                             <div class="album-info">
                                 <a href="#">
-                                    <h5>Sam Smith</h5>
+                                    <h5>Ali Zafar</h5>
                                 </a>
-                                <p>Underground</p>
+                               
                             </div>
                         </div>
 
                         <!-- Single Album -->
                         <div class="single-album">
-                            <img src="img/bg-img/a3.jpg" alt="">
+                            <img src="img/artist/Farhan Saeed 3.jpg" height="400px" alt="">
                             <div class="album-info">
                                 <a href="#">
-                                    <h5>Will I am</h5>
+                                    <h5>Farhan Saeed</h5>
                                 </a>
-                                <p>First</p>
+                            
                             </div>
                         </div>
 
                         <!-- Single Album -->
                         <div class="single-album">
-                            <img src="img/bg-img/a4.jpg" alt="">
+                            <img src="img/artist/bilal saeed 9.jpg" alt="">
                             <div class="album-info">
                                 <a href="#">
-                                    <h5>The Cure</h5>
+                                    <h5>Bilal Saeed</h5>
                                 </a>
-                                <p>Second Song</p>
+                              
                             </div>
                         </div>
 
@@ -118,9 +118,9 @@
                             <img src="img/bg-img/a5.jpg" alt="">
                             <div class="album-info">
                                 <a href="#">
-                                    <h5>DJ SMITH</h5>
+                                    <h5>Asim Azhar</h5>
                                 </a>
-                                <p>The Album</p>
+                               
                             </div>
                         </div>
 
@@ -208,7 +208,7 @@
                 <div class="col-12 col-sm-6 col-md-4 col-lg-2">
                     <div class="single-album-area wow fadeInUp" data-wow-delay="300ms">
                         <div class="album-thumb">
-                            <img src="img/bg-img/b3.jpg" alt="">
+                            <img src="img/artist/atif 2.jpg" alt="">
                         </div>
                         <div class="album-info">
                             <a href="#">
@@ -687,55 +687,7 @@
     </section>
     <!-- ##### Miscellaneous Area End ##### -->
 
-    <!-- ##### Contact Area Start ##### -->
-    <section class="contact-area section-padding-100 bg-img bg-overlay bg-fixed has-bg-img" style="background-image: url(img/bg-img/bg-2.jpg);">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-heading white wow fadeInUp" data-wow-delay="100ms">
-                        <p>See what’s new</p>
-                        <h2>Get In Touch</h2>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-12">
-                    <!-- Contact Form Area -->
-                    <div class="contact-form-area">
-                        <form action="#" method="post">
-                            <div class="row">
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group wow fadeInUp" data-wow-delay="100ms">
-                                        <input type="text" class="form-control" id="name" placeholder="Name">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group wow fadeInUp" data-wow-delay="200ms">
-                                        <input type="email" class="form-control" id="email" placeholder="E-mail">
-                                    </div>
-                                </div>
-                                <div class="col-lg-4">
-                                    <div class="form-group wow fadeInUp" data-wow-delay="300ms">
-                                        <input type="text" class="form-control" id="subject" placeholder="Subject">
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group wow fadeInUp" data-wow-delay="400ms">
-                                        <textarea name="message" class="form-control" id="message" cols="30" rows="10" placeholder="Message"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-12 text-center wow fadeInUp" data-wow-delay="500ms">
-                                    <button class="btn oneMusic-btn mt-30" type="submit">Send <i class="fa fa-angle-double-right"></i></button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ##### Contact Area End ##### -->
+    
 
   @endsection
 

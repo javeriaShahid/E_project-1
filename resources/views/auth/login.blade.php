@@ -1,3 +1,13 @@
+@extends("components.header")
+@section("new")
+  <!-- ##### Breadcumb Area Start ##### -->
+  <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/breadcumb3.jpg);">
+        <div class="bradcumbContent">
+            <p></p>
+            <h2>Log In</h2>
+        </div>
+    </section>
+    <!-- ##### Breadcumb Area End ##### -->
 <x-guest-layout>
     <x-authentication-card>
         <x-slot name="logo">
@@ -46,3 +56,4 @@
         </form>
     </x-authentication-card>
 </x-guest-layout>
+@endsection
