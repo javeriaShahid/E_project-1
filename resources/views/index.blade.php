@@ -76,7 +76,7 @@
                                 <a href="#">
                                     <h5>Atif Aslam</h5>
                                 </a>
-                               
+                                <p>Songs</p>
                             </div>
                         </div>
 
@@ -87,7 +87,7 @@
                                 <a href="#">
                                     <h5>Ali Zafar</h5>
                                 </a>
-                               
+                                <p>Songs</p>
                             </div>
                         </div>
 
@@ -98,7 +98,7 @@
                                 <a href="#">
                                     <h5>Farhan Saeed</h5>
                                 </a>
-                            
+                                <p>Songs</p>
                             </div>
                         </div>
 
@@ -109,7 +109,7 @@
                                 <a href="#">
                                     <h5>Bilal Saeed</h5>
                                 </a>
-                              
+                                <p>Songs</p>
                             </div>
                         </div>
 
@@ -120,7 +120,7 @@
                                 <a href="#">
                                     <h5>Asim Azhar</h5>
                                 </a>
-                               
+                                <p>Songs</p>
                             </div>
                         </div>
 
@@ -131,16 +131,16 @@
                                 <a href="#">
                                     <h5>Falak Shabbir</h5>
                                 </a>
-                             
+                                <p>Songs</p>
                             </div>
                         </div>
 
                         <!-- Single Album -->
                         <div class="single-album">
-                            <img src="img/bg-img/a7.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 1.jpg" alt="">
                             <div class="album-info">
                                 <a href="#">
-                                    <h5>Beyonce</h5>
+                                    <h5>Rahat Fateh Ali Khan</h5>
                                 </a>
                                 <p>Songs</p>
                             </div>

@@ -65,7 +65,7 @@
                             <!-- Nav Start -->
                             <div class="classynav">
                                 <ul>
-                                    <li><a href="/index">Home</a></li>
+                                    <li><a href="/">Home</a></li>
                                     <li><a href="/album">Albums</a></li>
                                     <li><a href="/music">Music</a></li>
                                     <li><a href="/videos">Videos</a></li>
