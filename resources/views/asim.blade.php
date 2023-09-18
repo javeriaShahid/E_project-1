@@ -40,10 +40,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>01. Main Hit Song</p>
+                                <p>Chand Mahiya</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/dummy-audio.mp3">
+                                <source src="audio\Asim Azhar - Chand Mahiya (Official Music Video).mp3">
                             </audio>
                         </div>
                     </div>
@@ -57,10 +57,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>01. Main Hit Song</p>
+                                <p>Dard</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/dummy-audio.mp3">
+                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
                             </audio>
                         </div>
                     </div>
@@ -74,10 +74,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>01. Main Hit Song</p>
+                                <p>Habibi</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/dummy-audio.mp3">
+                                <source src="audio\Asim Azhar - Habibi (Official Video) _ New Song 2022.mp3">
                             </audio>
                         </div>
                     </div>
