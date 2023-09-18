@@ -402,7 +402,7 @@
                         <p>"Pasoori" was the most-streamed Pakistani song globally as well as the most-streamed song in Pakistan in 2022. In December 2022, "Pasoori" became the first Pakistani song to enter YouTube's Global Top Music Videos chart (week of December 16–22).</p>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>01. Main Hit Song</p>
+                                <p>Pasoori</p>
                             </div>
                             <audio preload="auto" controls>
                                 <source src="audio/dummy-audio.mp3">
@@ -423,8 +423,8 @@
                 <div class="col-12 col-lg-4">
                     <div class="weeks-top-area mb-100">
                         <div class="section-heading text-left mb-50 wow fadeInUp" data-wow-delay="50ms">
-                            <p>See what’s new</p>
-                            <h2>This week’s top</h2>
+                         
+                            <h2>This week's top</h2>
                         </div>
 
                         <!-- Single Top Item -->
@@ -500,8 +500,8 @@
                 <div class="col-12 col-lg-4">
                     <div class="new-hits-area mb-100">
                         <div class="section-heading text-left mb-50 wow fadeInUp" data-wow-delay="50ms">
-                            <p>See what’s new</p>
-                            <h2>New Hits</h2>
+                       
+                            <h2>New Pakistani Hits</h2>
                         </div>
 
                         <!-- Single Top Item -->
@@ -606,8 +606,8 @@
                 <div class="col-12 col-lg-4">
                     <div class="popular-artists-area mb-100">
                         <div class="section-heading text-left mb-50 wow fadeInUp" data-wow-delay="50ms">
-                            <p>See what’s new</p>
-                            <h2>Popular Artist</h2>
+                          
+                            <h2>Popular Pakistani Artist</h2>
                         </div>
 
                         <!-- Single Artist -->
@@ -616,7 +616,7 @@
                                 <img src="img/bg-img/pa1.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>Sam Smith</p>
+                                <p>Atif Aslam</p>
                             </div>
                         </div>
 
@@ -626,7 +626,7 @@
                                 <img src="img/bg-img/pa2.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>William Parker</p>
+                                <p>Asim Azhar</p>
                             </div>
                         </div>
 
@@ -636,7 +636,7 @@
                                 <img src="img/bg-img/pa3.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>Jessica Walsh</p>
+                                <p>Farhan Saeed</p>
                             </div>
                         </div>
 
@@ -646,7 +646,7 @@
                                 <img src="img/bg-img/pa4.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>Tha Stoves</p>
+                                <p>Rahat Fateh Ali Khan</p>
                             </div>
                         </div>
 
@@ -656,7 +656,7 @@
                                 <img src="img/bg-img/pa5.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>DJ Ajay</p>
+                                <p>Bilal Saeed</p>
                             </div>
                         </div>
 
@@ -666,7 +666,7 @@
                                 <img src="img/bg-img/pa6.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>Radio Vibez</p>
+                                <p>Falak Shabbir</p>
                             </div>
                         </div>
 
@@ -676,7 +676,7 @@
                                 <img src="img/bg-img/pa7.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>Music 4u</p>
+                                <p>Ali Zafar</p>
                             </div>
                         </div>
 
