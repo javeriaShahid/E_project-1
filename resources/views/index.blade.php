@@ -4,7 +4,7 @@
 
 
 
- 
+
     <!-- ##### Hero Area Start ##### -->
     <section class="hero-area">
         <div class="hero-slides owl-carousel">
@@ -405,7 +405,7 @@
                                 <p>Pasoori</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/dummy-audio.mp3">
+                                <source src="audio\Pasoori(PagalWorld.com.se).mp3">
                             </audio>
                         </div>
                     </div>
@@ -423,7 +423,7 @@
                 <div class="col-12 col-lg-4">
                     <div class="weeks-top-area mb-100">
                         <div class="section-heading text-left mb-50 wow fadeInUp" data-wow-delay="50ms">
-                         
+
                             <h2>This week's top</h2>
                         </div>
 
@@ -500,7 +500,7 @@
                 <div class="col-12 col-lg-4">
                     <div class="new-hits-area mb-100">
                         <div class="section-heading text-left mb-50 wow fadeInUp" data-wow-delay="50ms">
-                       
+
                             <h2>New Pakistani Hits</h2>
                         </div>
 
@@ -606,7 +606,7 @@
                 <div class="col-12 col-lg-4">
                     <div class="popular-artists-area mb-100">
                         <div class="section-heading text-left mb-50 wow fadeInUp" data-wow-delay="50ms">
-                          
+
                             <h2>Popular Pakistani Artist</h2>
                         </div>
 
@@ -687,7 +687,7 @@
     </section>
     <!-- ##### Miscellaneous Area End ##### -->
 
-    
+
 
   @endsection
 
