@@ -1000,7 +1000,7 @@ img {
     .single-song-area .song-play-area .audioplayer-playing .audioplayer-playpause,
     .single-song-area .song-play-area .audioplayer:not(.audioplayer-playing) .audioplayer-playpause:hover,
     .single-song-area .song-play-area .audioplayer:not(.audioplayer-playing) .audioplayer-playpause {
-      background: #fff; }
+      background: transparent; }
     .single-song-area .song-play-area .audioplayer-time {
       font-size: 14px;
       color: #fff; }
@@ -1009,11 +1009,11 @@ img {
   position: relative;
   z-index: 1;
   width: 100%;
-  background-color: #262626;
+  background-color: transparent;
   padding: 15px 30px 20px;
   border: 1px solid #363636; }
   .song-play-area .song-name p {
-    color: #b8b8b8;
+    color: #fff;
     margin-bottom: 5px; }
   .song-play-area .audioplayer {
     margin: 0;
