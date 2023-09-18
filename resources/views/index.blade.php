@@ -73,7 +73,7 @@
                         <div class="single-album">
                             <img src="img\artist\atif 9.jpg" alt="">
                             <div class="album-info">
-                                <a href="#">
+                                <a href="/atif">
                                     <h5>Atif Aslam</h5>
                                 </a>
                                 <p>Songs</p>
@@ -84,7 +84,7 @@
                         <div class="single-album">
                             <img src="img\artist\ali zafar 4.jpg" alt="">
                             <div class="album-info">
-                                <a href="#">
+                                <a href="/ali">
                                     <h5>Ali Zafar</h5>
                                 </a>
                                 <p>Songs</p>
@@ -95,7 +95,7 @@
                         <div class="single-album">
                             <img src="img/artist/Farhan Saeed 3.jpg" height="400px" alt="">
                             <div class="album-info">
-                                <a href="#">
+                                <a href="/farhan">
                                     <h5>Farhan Saeed</h5>
                                 </a>
                                 <p>Songs</p>
@@ -117,7 +117,7 @@
                         <div class="single-album">
                             <img src="img/artist/Asim Azhar 2.webp" alt="">
                             <div class="album-info">
-                                <a href="#">
+                                <a href="/asim">
                                     <h5>Asim Azhar</h5>
                                 </a>
                                 <p>Songs</p>

@@ -253,6 +253,11 @@ img {
     -webkit-transform: translate(19px, 0);
     transform: translate(19px, 0); } }
 /* :: 3.6.0 Miscellaneous */
+.bg-img-3{
+  background: url(./img/artist/Asim\ Azhar\ 8.jpg);
+  background-position: center center ;
+  background-size: cover;
+  background-repeat: no-repeat; }
 .bg-img-2{
   background: url(./img/artist/atif\ 6.jpg);
   background-position: center center ;

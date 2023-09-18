@@ -46,8 +46,48 @@ Route::get('/contact', function(){
             
             
             });
-                  
+            Route::get('/asim', function(){
+
+                return view('asim');
+                
+                
+                }); 
         
+                Route::get('/ali', function(){
+
+                    return view('alizafar');
+                    
+                    
+                    });
+
+                    Route::get('/atif', function(){
+
+                        return view('atifaslam');
+                        
+                        
+                        });
+
+
+
+                        Route::get('/farhan', function(){
+
+                            return view('farhansaeed');
+                            
+                            
+                            });
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Route::middleware([
