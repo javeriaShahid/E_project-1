@@ -384,7 +384,7 @@
     <!-- ##### Buy Now Area End ##### -->
 
     <!-- ##### Featured Artist Area Start ##### -->
-    <section class="featured-artist-area section-padding-100 bg-img bg-overlay bg-fixed" style="background-image: url();">
+    <section class="featured-artist-area section-padding-100 bg-img-4 bg-overlay bg-fixed" >
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-12 col-md-5 col-lg-4">
@@ -399,7 +399,7 @@
                             <p>Most Hit Song</p>
                             <h2>Pasoori</h2>
                         </div>
-                        <p>Nam tristique ex vel magna tincidunt, ut porta nisl finibus. Vivamus eu dolor eu quam varius rutrum. Fusce nec justo id sem aliquam fringilla nec non lacus. Suspendisse eget lobortis nisi, ac cursus odio. Vivamus nibh velit, rutrum at ipsum ac, dignissim iaculis ante. Donec in velit non elit pulvinar pellentesque et non eros.</p>
+                        <p>"Pasoori" was the most-streamed Pakistani song globally as well as the most-streamed song in Pakistan in 2022. In December 2022, "Pasoori" became the first Pakistani song to enter YouTube's Global Top Music Videos chart (week of December 16–22).</p>
                         <div class="song-play-area">
                             <div class="song-name">
                                 <p>01. Main Hit Song</p>
