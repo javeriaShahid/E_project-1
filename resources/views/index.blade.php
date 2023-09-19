@@ -53,7 +53,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="section-heading style-2">
-                        <p>See what’s new</p>
+                        <p>See what's new</p>
                         <h2>Latest Albums</h2>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-9">
                     <div class="ablums-text text-center mb-70">
-                        <p>Nam tristique ex vel magna tincidunt, ut porta nisl finibus. Vivamus eu dolor eu quam varius rutrum. Fusce nec justo id sem aliquam fringilla nec non lacus. Suspendisse eget lobortis nisi, ac cursus odio. Vivamus nibh velit, rutrum at ipsum ac, dignissim iaculis ante. Donec in velit non elit pulvinar pellentesque et non eros.</p>
+                        <p>The Music of Pakistan includes diverse elements ranging from music from various parts of South Asia as well as Central Asian, Middle Eastern, and modern-day Western popular music influences. With these multiple influences, a distinctive Pakistani music has emerged</p>
                     </div>
                 </div>
             </div>
@@ -159,7 +159,7 @@
                 <div class="col-12">
                     <div class="section-heading style-2">
                         <p>Top Songs</p>
-                        <h2>Videos</h2>
+                        <h2>Music/Videos</h2>
                     </div>
                 </div>
             </div>
@@ -372,13 +372,7 @@
 
             </div>
 
-            <div class="row">
-                <div class="col-12">
-                    <div class="load-more-btn text-center wow fadeInUp" data-wow-delay="300ms">
-                        <a href="#" class="btn oneMusic-btn">Load More <i class="fa fa-angle-double-right"></i></a>
-                    </div>
-                </div>
-            </div>
+
         </div>
     </section>
     <!-- ##### Buy Now Area End ##### -->

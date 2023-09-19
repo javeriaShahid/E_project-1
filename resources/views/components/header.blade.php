@@ -70,33 +70,33 @@
                                     <li><a href="/music">Music</a></li>
                                     <li><a href="/videos">Videos</a></li>
                                     <li><a href="/contact">Contact</a></li>
-                                    <li>  @if (Route::has('login'))
-                        <div class="sm:top-0 text-left">
-                            @auth
-         @else
-                                <a href="{{ route('login') }}" class="font-semibold text-white-600 hover:text-white-900 focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Log in</a>
-<li>
-                                @if (Route::has('register'))
-                                    <a href="{{ route('register') }}" class="font-semibold text-gray-600 hover:text-gray-900 focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Register</a>
-                                @endif
-                                </li>
-                            @endauth
-                        </div>
-                    @endif
-                </li>
+                                    <li><a href="/about">About Us</a></li>
+
                                 </ul>
 
+ <ul>
                                 <!-- Login/Register & Cart Button -->
-
-
-
-
+                                <li>  @if (Route::has('login'))
+                                    <div class="sm:top-0 ">
+                                        @auth
+                     @else
+                                            <a href="{{ route('login') }}" class="font-semibold text-white-600 hover:text-white-900 focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Log in</a>
+            <li>
+                                            @if (Route::has('register'))
+                                                <a href="{{ route('register') }}" class="font-semibold text-gray-600 hover:text-gray-900 focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Register</a>
+                                            @endif
+                                            </li>
+                                        @endauth
+                                    </div>
+                                @endif
+                            </li>
+                        </ul>
                                 </div>
                             </div>
                             <!-- Nav End -->
 
                         </div>
-                      
+
                     </nav>
                 </div>
             </div>
@@ -110,7 +110,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="section-heading white">
-                        <p>See what’s new</p>
+                        <p>See what's new</p>
                         <h2>Get In Touch</h2>
                     </div>
                 </div>

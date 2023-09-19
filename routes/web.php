@@ -31,40 +31,40 @@ return view('albums-store');
 Route::get('/contact', function(){
 
     return view('contact');
-    
-    
+
+
     });
     Route::get('/music', function(){
 
         return view('event');
-        
-        
+
+
         });
         Route::get('/videos', function(){
 
             return view('blog');
-            
-            
+
+
             });
             Route::get('/asim', function(){
 
                 return view('asim');
-                
-                
-                }); 
-        
+
+
+                });
+
                 Route::get('/ali', function(){
 
                     return view('alizafar');
-                    
-                    
+
+
                     });
 
                     Route::get('/atif', function(){
 
                         return view('atifaslam');
-                        
-                        
+
+
                         });
 
 
@@ -72,10 +72,16 @@ Route::get('/contact', function(){
                         Route::get('/farhan', function(){
 
                             return view('farhansaeed');
-                            
-                            
+
+
                             });
 
+                            Route::get('/about', function(){
+
+                                return view('about');
+
+
+                                });
 
 
 
