@@ -52,7 +52,7 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail"><a href="/ali">
-                            <img src="img/artist/ali zafar 9.jpg" alt="">
+                            <img src="img/artist/ali zafar 4.jpg" alt="">
                             </a>
                         </div>
                         <div class="event-text">
@@ -67,15 +67,12 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail">
-                            <img src="img/bg-img/e4.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 1.jpg" alt="">
                         </div>
                         <div class="event-text">
                             <h4>Rahat Fateh Ali Khan</h4>
-                            <div class="event-meta-data">
-                                <a href="#" class="event-place">VIP Sala</a>
-                                <a href="#" class="event-date">June 15, 2018</a>
-                            </div>
-                            <a href="#" class="btn see-more-btn">Songs</a>
+                         
+                            <a href="/rahat" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
                 </div>
@@ -84,15 +81,14 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail">
-                            <img src="img/bg-img/e5.jpg" alt="">
+                            <a href="/falak">
+                            <img src="img/artist/falak shabir 6.jpg" alt="">
+                            </a>
                         </div>
                         <div class="event-text">
                             <h4>Falak Shabbir</h4>
-                            <div class="event-meta-data">
-                                <a href="#" class="event-place">Gold Arena</a>
-                                <a href="#" class="event-date">June 15, 2018</a>
-                            </div>
-                            <a href="#" class="btn see-more-btn">Songs</a>
+                        
+                            <a href="/falak" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
                 </div>
@@ -101,15 +97,14 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail">
-                            <img src="img/bg-img/e6.jpg" alt="">
+                            <a href="/farhan">
+                            <img src="img/artist/farhan saeed 4.jpg" alt="">
+                            </a>
                         </div>
                         <div class="event-text">
                             <h4>Farhan Saeed</h4>
-                            <div class="event-meta-data">
-                                <a href="#" class="event-place">Space Ibiza</a>
-                                <a href="#" class="event-date">June 15, 2018</a>
-                            </div>
-                            <a href="#" class="btn see-more-btn">Songs</a>
+                          
+                            <a href="/farhan" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
                 </div>
@@ -118,14 +113,12 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail">
+                            <a href="/"></a>
                             <img src="img/bg-img/e7.jpg" alt="">
                         </div>
                         <div class="event-text">
                             <h4>BIlal Saeed</h4>
-                            <div class="event-meta-data">
-                                <a href="#" class="event-place">VIP Sala</a>
-                                <a href="#" class="event-date">June 15, 2018</a>
-                            </div>
+                           
                             <a href="#" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>

@@ -75,7 +75,25 @@ Route::get('/contact', function(){
 
 
                             });
+                            Route::get('/rahat', function(){
 
+                                return view('rahatfateh');
+    
+    
+                                });
+
+                                Route::get('/falak', function(){
+
+                                    return view('falak');
+        
+        
+                                    });
+                                    Route::get('/bilal', function(){
+
+                                        return view('bilalsaeed');
+            
+            
+                                        });
                             Route::get('/about', function(){
 
                                 return view('about');
