@@ -94,6 +94,24 @@ Route::get('/contact', function(){
             
             
                                         });
+                                        Route::get('/young', function(){
+
+                                            return view('young');
+                
+                
+                                            });
+                                            Route::get('/hadiqa', function(){
+
+                                                return view('hadiqa');
+                    
+                    
+                                                });
+                                                Route::get('/bohemia', function(){
+
+                                                    return view('bohemia');
+                        
+                        
+                                                    });
                             Route::get('/about', function(){
 
                                 return view('about');

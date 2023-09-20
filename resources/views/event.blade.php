@@ -113,13 +113,14 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail">
-                            <a href="/"></a>
-                            <img src="img/bg-img/e7.jpg" alt="">
+                            <a href="/bilal">
+                            <img src="img/artist/bilal saeed 9.jpg" alt="">
+                            </a>
                         </div>
                         <div class="event-text">
-                            <h4>BIlal Saeed</h4>
+                            <h4>Bilal Saeed</h4>
                            
-                            <a href="#" class="btn see-more-btn">Songs</a>
+                            <a href="/bilal" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
                 </div>
@@ -128,15 +129,14 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail">
-                            <img src="img/bg-img/e8.jpg" alt="">
+                            <a href="/young">
+                            <img src="img/artist/young 1.jpg" alt="">
+                            </a>
                         </div>
                         <div class="event-text">
                             <h4>Young Stunners</h4>
-                            <div class="event-meta-data">
-                                <a href="#" class="event-place">Gold Arena</a>
-                                <a href="#" class="event-date">June 15, 2018</a>
-                            </div>
-                            <a href="#" class="btn see-more-btn">Songs</a>
+                          
+                            <a href="/young" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
                 </div>
@@ -145,18 +145,37 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail">
-                            <img src="img/bg-img/e9.jpg" alt="">
+                            <a href="/hadiqa"></a>
+                            <img src="img/artist/hadiqakiani.jpg" alt="">
                         </div>
                         <div class="event-text">
                             <h4>Hadiqa Kiani</h4>
-                            <div class="event-meta-data">
-                                <a href="#" class="event-place">Space Ibiza</a>
-                                <a href="#" class="event-date">June 15, 2018</a>
-                            </div>
-                            <a href="#" class="btn see-more-btn">Songs</a>
+                           
+                            <a href="/hadiqa" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
                 </div>
+
+  <!-- Single Event Area -->
+  <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-event-area mb-30">
+                        <div class="event-thumbnail">
+                            <a href="/bohemia">
+                            <img src="img/artist/bohemia.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="event-text">
+                            <h4>Bohemia</h4>
+                          
+                            <a href="/bohemia" class="btn see-more-btn">Songs</a>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
 
             </div>
 
