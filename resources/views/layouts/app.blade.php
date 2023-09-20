@@ -32,12 +32,11 @@
                 </header>
             @endif
 
-            <!-- Page Content
+            <!-- Page Content-->
             <main>
-                {{ $slot }}
-
+                {{-- {{ $slot }} --}}
                 
-            </main> -->
+            </main>
         </div>
 
         @stack('modals')
