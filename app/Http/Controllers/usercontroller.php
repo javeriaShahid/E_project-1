@@ -6,32 +6,32 @@ use Illuminate\Http\Request;
 
 class usercontroller extends Controller
 {
-    public function index(){
+//     public function index(){
 
-return view('index');
-    
-    }
-    public function contact(){
+// return view('index');
 
-        return view('contact');
-            
-            }
-    
-            public function album(){
+//     }
+//     public function contact(){
 
-                return view('albums-store');
-                    
-                    }
-                    public function blog(){
+//         return view('contact');
 
-                        return view('blog');
-                            
-                            }
+//             }
 
-public function event(){
+//             public function album(){
 
-return view('event');
-}
+//                 return view('albums-store');
+
+//                     }
+//                     public function blog(){
+
+//                         return view('blog');
+
+//                             }
+
+// public function event(){
+
+// return view('event');
+// }
 
 // public function login(){
 
