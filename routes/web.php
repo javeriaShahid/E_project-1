@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\usercontroller;
+use App\Http\Controllers\homecontroller;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +14,7 @@ use App\Http\Controllers\usercontroller;
 |
 */
 
+Route::get('/redirect',[homecontroller::class,'redirect']);
 Route::get('/welcome', function () {
     return view('welcome');
 });
@@ -115,6 +117,7 @@ Route::get('/contact', function(){
                             Route::get('/about', function(){
 
                                 return view('about');
+
 
 
                                 });
