@@ -19,14 +19,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 7.webp" alt="">
+                            <img src="public/img/artist/Rahat Fateh Ali Khan 8.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
                                 <p>Ehd-e-Wafa</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Ehd-e-Wafa OST  Ali Zafar, Asim Azhar, Sahir Ali Bagga & Aima Baig - (ISPR Official Song).mp3">
+                                <source src="public/audio/Ehd-e-Wafa OST  Rahat Fateh Ali Khan  (ISPR Official Song).mp3">
                             </audio>
                         </div>
                     </div>
@@ -40,10 +40,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Chand Mahiya</p>
+                                <p>Dard Rukhta Nahi</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Chand Mahiya (Official Music Video).mp3">
+                                <source src="public/audio/Dard Rukta Nahi OST _ Rahat Fateh Ali Khan _ Rock Version _ Official 4K Video.mp3">
                             </audio>
                         </div>
                     </div>
@@ -57,10 +57,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Dard</p>
+                                <p>Koi Chand Rakh</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
+                                <source src="public/audio/Koi Chand Rakh OST - Singer Rahat Fateh Ali Khan - Ayeza Khan - Pakistani Dramas OST.mp3">
                             </audio>
                         </div>
                     </div>
