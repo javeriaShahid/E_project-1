@@ -19,14 +19,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 7.webp" alt="">
+                            <img src="public/img/artist/Atif Aslam 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Ehd-e-Wafa</p>
+                                <p>Pheli Dafa</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Ehd-e-Wafa OST  Ali Zafar, Asim Azhar, Sahir Ali Bagga & Aima Baig - (ISPR Official Song).mp3">
+                                <source src="public/audio/Atif Aslam_ Pehli Dafa Song (Video)  Ileana DCruz  Latest Hindi Song 2017  T-Series.mp3">
                             </audio>
                         </div>
                     </div>
@@ -40,10 +40,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Chand Mahiya</p>
+                                <p>Tu Janay Na</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Chand Mahiya (Official Music Video).mp3">
+                                <source src="public/audio/Tu Jaane Na Full Video - Ajab Prem Ki Ghazab Kahani  Ranbir Kapoor, Katrina  Atif Aslam  Pritam.mp3">
                             </audio>
                         </div>
                     </div>
@@ -57,10 +57,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Dard</p>
+                                <p>Tere Sang Yaara</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
+                                <source src="public/audio/Tere Sang Yaara - Rustom  Akshay Kumar & Ileana D'cruz   Arko Ft. Atif Aslam  Manoj Muntashir.mp3">
                             </audio>
                         </div>
                     </div>
@@ -74,10 +74,44 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Habibi</p>
+                                <p>Main Rang Sharbaton Ka</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Habibi (Official Video) _ New Song 2022.mp3">
+                                <source src="public/audio/Main Rang Sharbaton Ka - Phata Poster Nikhla Hero I Shahid,Ileana  Atif Aslam & Chinmayi  Pritam.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Dil Meri Na Sunay</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="public/audio/Dil Meri Na Sune Song Video - Genius  Utkarsh, Ishita  Atif Aslam  Himesh Reshammiya  Manoj.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Main Rang Sharbaton Ka</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="public/audio/Main Rang Sharbaton Ka - Phata Poster Nikhla Hero I Shahid,Ileana  Atif Aslam & Chinmayi  Pritam.mp3">
                             </audio>
                         </div>
                     </div>
