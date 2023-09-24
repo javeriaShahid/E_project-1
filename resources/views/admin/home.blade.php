@@ -57,11 +57,41 @@
                 
                 
                 </p>
+           
                 </div>
-                
+           
                 <div class="bg-gray-200 bg-opacity-25 grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 p-6 lg:p-8">
                 
-                
+                    <table class="table">
+                     
+    <tr>
+        <th>ID</th>
+        <th>NAME</th>
+        <th>EMAIL</th>
+        <th>EDIT</th>
+        <th>DELETE</th>
+    </tr>
+  
+    
+
+        @foreach ($fetch as $input)
+            
+  
+        <tr>
+        <td>{{$input->id}}</td>
+        <td>{{$input->name}}</td>
+        <td>{{$input->email}}</td>
+        <td></td>
+        <td></td>
+    
+    
+    
+    
+    </tr>
+    @endforeach
+ 
+    
+                    </table>
                 
                 
                 </div>

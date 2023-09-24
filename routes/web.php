@@ -15,6 +15,9 @@ use App\Http\Controllers\homecontroller;
 */
 
 Route::get('/redirect',[homecontroller::class,'redirect']);
+Route::get('/redirect',[homecontroller::class,'fetch']);
+
+
 Route::get('/welcome', function () {
     return view('welcome');
 });
