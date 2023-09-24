@@ -263,6 +263,12 @@ img {
   background-position: center center ;
   background-size: cover;
   background-repeat: no-repeat; }
+  .bg-img-5{
+    background: url(./img/artist/ali\ zafar\ 8.jpg);
+    background-position: center center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-position: fixed; }
 
   .bg-img{
     background: url(./img/artist/ali\ zafar\ 8.jpg);

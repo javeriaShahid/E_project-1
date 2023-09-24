@@ -1,7 +1,7 @@
 @extends("components.header")
 @section("new")
     <!-- ##### Breadcumb Area Start ##### -->
-    <section class="breadcumb-area bg-img-3 bg-overlay">
+    <section class="breadcumb-area bg-img-5 bg-overlay">
         <div class="bradcumbContent">
             <p>Songs</p>
             <h2>Rahat Fateh Ali Khan</h2>
@@ -19,7 +19,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="public/img/artist/Rahat Fateh Ali Khan 8.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 8.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
