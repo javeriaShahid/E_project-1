@@ -144,6 +144,36 @@
                                 <p>Songs</p>
                             </div>
                         </div>
+                          <!-- Single Album -->
+                        <div class="single-album">
+                            <img src="img/artist/" alt="">
+                            <div class="album-info">
+                                <a href="#">
+                                    <h5>Selena Gomez</h5>
+                                </a>
+                                <p>Songs</p>
+                            </div>
+                        </div>
+                               <!-- Single Album -->
+                         <div class="single-album">
+                            <img src="img/artist/" alt="">
+                            <div class="album-info">
+                                <a href="#">
+                                    <h5>Hadiqa Kiani</h5>
+                                </a>
+                                <p>Songs</p>
+                            </div>
+                        </div>
+                           <!-- Single Album -->
+                        <div class="single-album">
+                            <img src="img/artist/" alt="">
+                            <div class="album-info">
+                                <a href="#">
+                                    <h5>Billie Elish</h5>
+                                </a>
+                                <p>Songs</p>
+                            </div>
+                        </div>
                         <!-- Single Album -->
                         <div class="single-album">
                             <img src="img/artist/Rahat Fateh Ali Khan 1.jpg" alt="">
