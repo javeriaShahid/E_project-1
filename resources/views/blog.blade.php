@@ -9,7 +9,229 @@
         </div>
     </section>
     <!-- ##### Breadcumb Area End ##### -->
+    <section class="oneMusic-buy-now-area has-fluid bg-gray section-padding-100">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-heading style-2">
+                        <p>Top Songs</p>
+                        <h2>Music/Videos</h2>
+                    </div>
+                </div>
+            </div>
 
+            <div class="row">
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/b1.jpg" alt="">
+                            <!-- Album Price -->
+                            <div class="album-price">
+                                <p>$0.90</p>
+                            </div>
+                            <!-- Play Icon -->
+                            <div class="play-icon">
+                                <a href="#" class="video--play--btn"><span class="icon-play-button"></span></a>
+                            </div>
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Garage Band</h5>
+                            </a>
+                            <p>Radio Station</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="200ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/b2.jpg" alt="">
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Noises</h5>
+                            </a>
+                            <p>Buble Gum</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="300ms">
+                        <div class="album-thumb">
+                            <img src="img/" alt="">
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Jess Parker</h5>
+                            </a>
+                            <p>The Album</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="400ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/b4.jpg" alt="">
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Noises</h5>
+                            </a>
+                            <p>Buble Gum</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="500ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/b1.jpg" alt="">
+                            <!-- Album Price -->
+                            <div class="album-price">
+                                <p>$0.90</p>
+                            </div>
+                            <!-- Play Icon -->
+                            <div class="play-icon">
+                                <a href="#" class="video--play--btn"><span class="icon-play-button"></span></a>
+                            </div>
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Garage Band</h5>
+                            </a>
+                            <p>Radio Station</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="600ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/b2.jpg" alt="">
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Noises</h5>
+                            </a>
+                            <p>Buble Gum</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/b3.jpg" alt="">
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Jess Parker</h5>
+                            </a>
+                            <p>The Album</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="200ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/b4.jpg" alt="">
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Noises</h5>
+                            </a>
+                            <p>Buble Gum</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="300ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/b1.jpg" alt="">
+                            <!-- Album Price -->
+                            <div class="album-price">
+                                <p>$0.90</p>
+                            </div>
+                            <!-- Play Icon -->
+                            <div class="play-icon">
+                                <a href="#" class="video--play--btn"><span class="icon-play-button"></span></a>
+                            </div>
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Garage Band</h5>
+                            </a>
+                            <p>Radio Station</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="400ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/b2.jpg" alt="">
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Noises</h5>
+                            </a>
+                            <p>Buble Gum</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="500ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/b3.jpg" alt="">
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Jess Parker</h5>
+                            </a>
+                            <p>The Album</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="600ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/b4.jpg" alt="">
+                        </div>
+                        <div class="album-info">
+                            <a href="#">
+                                <h5>Noises</h5>
+                            </a>
+                            <p>Buble Gum</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+    </section>
+    <!-- ##### Buy Now Area End ##### -->
       <!-- ##### Newsletter & Testimonials Area Start ##### -->
       <section class="newsletter-testimonials-area">
         <div class="container">

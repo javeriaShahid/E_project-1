@@ -4,7 +4,7 @@
     <section class="breadcumb-area bg-img-3 bg-overlay">
         <div class="bradcumbContent">
             <p>Songs</p>
-            <h2>Rahat Fateh Ali Khan</h2>
+            <h2>Hadiqa Kiani</h2>
         </div>
     </section>
     <!-- ##### Breadcumb Area End ##### -->
