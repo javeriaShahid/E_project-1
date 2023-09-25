@@ -51,7 +51,7 @@
 
 <form method="POST" action="{{URL::TO('/edit/' . $update->id)}}">
     @csrf
-@method('PUT')
+
 <div>
     <x-label for="name" value="{{ __('Name') }}" />
     <x-input id="name" class="block mt-1 w-full" type="text" name="name" value="{{$update->name}}" required autofocus autocomplete="name" />

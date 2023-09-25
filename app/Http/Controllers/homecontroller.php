@@ -52,7 +52,7 @@ public function edit($id, Request $request){
     $update = User::all();
     //    return view("Admin"  ,compact('image_save'));
 
-    return redirect()->back()->with('we' , 'succesfully updated');
+    return redirect()->intended("/redirect")->with('we' , 'succesfully updated');
 
 
     }

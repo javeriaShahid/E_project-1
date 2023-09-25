@@ -263,7 +263,7 @@ img {
   background-position: center center ;
   background-size: cover;
   background-repeat: no-repeat; }
-<<<<<<< HEAD
+
 
   .bg-img-7{
     background: url(./img/artist/atif\ 7.jpg);
@@ -271,7 +271,7 @@ img {
     background-size: cover;
     background-repeat: no-repeat; }
 
-=======
+
   .bg-img-5{
     background: url(./img/artist/Rahat\ Fateh\ Ali\ Khan\ 2.jpg);
     background-position: center center ;
@@ -284,7 +284,7 @@ img {
     background-size: cover;
     background-repeat: no-repeat;
   background-position: fixed; }
->>>>>>> fdf2fc8f6eb1fcf1e03bfcbd3e80bfadf6ca1d77
+
   .bg-img{
     background: url(./img/artist/ali\ zafar\ 8.jpg);
     background-position: center center ;
