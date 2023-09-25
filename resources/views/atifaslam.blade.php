@@ -1,7 +1,7 @@
 @extends("components.header")
 @section("new")
     <!-- ##### Breadcumb Area Start ##### -->
-    <section class="breadcumb-area bg-img-3 bg-overlay">
+    <section class="breadcumb-area bg-img-7 bg-overlay">
         <div class="bradcumbContent">
             <p>Songs</p>
             <h2>Atif Aslam</h2>
@@ -26,7 +26,7 @@
                                 <p>Pheli Dafa</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Atif Aslam_ Pehli Dafa Song (Video)  Ileana DCruz  Latest Hindi Song 2017  T-Series.mp3">
+                                <source src="audio/Atif Aslam_ Pehli Dafa Song (Video)  Ileana DCruz  Latest Hindi Song 2017  T-Series.mp3">
                             </audio>
                         </div>
                     </div>
@@ -36,14 +36,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/atif 9.jpg" alt="">
+                            <img src="img/artist/atif 7.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
                                 <p>Tu Janay Na</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Tu Jaane Na Full Video - Ajab Prem Ki Ghazab Kahani  Ranbir Kapoor, Katrina  Atif Aslam  Pritam.mp3">
+                                <source src="audio/Tu Jaane Na Full Video - Ajab Prem Ki Ghazab Kahani  Ranbir Kapoor, Katrina  Atif Aslam  Pritam.mp3">
                             </audio>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                                 <p>Tere Sang Yaara</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Tere Sang Yaara - Rustom  Akshay Kumar & Ileana D'cruz   Arko Ft. Atif Aslam  Manoj Muntashir.mp3">
+                                <source src="audio/Tere Sang Yaara - Rustom  Akshay Kumar & Ileana D'cruz   Arko Ft. Atif Aslam  Manoj Muntashir.mp3">
                             </audio>
                         </div>
                     </div>
@@ -70,14 +70,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/atif 9.jpg" alt="">
+                            <img src="img/artist/atif 7.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
                                 <p>Main Rang Sharbaton Ka</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Main Rang Sharbaton Ka - Phata Poster Nikhla Hero I Shahid,Ileana  Atif Aslam & Chinmayi  Pritam.mp3">
+                                <source src="audio/Main Rang Sharbaton Ka - Phata Poster Nikhla Hero I Shahid,Ileana  Atif Aslam & Chinmayi  Pritam.mp3">
                             </audio>
                         </div>
                     </div>
@@ -104,14 +104,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/atif 6.jpg" alt="">
+                            <img src="img/artist/atif 7.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Main Rang Sharbaton Ka</p>
+                                <p>Rafta Rafta</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Main Rang Sharbaton Ka - Phata Poster Nikhla Hero I Shahid,Ileana  Atif Aslam & Chinmayi  Pritam.mp3">
+                                <source src="audio/Rafta Rafta - Official Music Video  Raj Ranjodh  Atif Aslam Ft. Sajal Ali  Tarish Music - Copy.mp3">
                             </audio>
                         </div>
                     </div>

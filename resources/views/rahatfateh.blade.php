@@ -19,14 +19,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="public/img/artist/Rahat Fateh Ali Khan 8.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
                                 <p>Ehd-e-Wafa</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Ehd-e-Wafa OST  Rahat Fateh Ali Khan  (ISPR Official Song).mp3">
+                                <source src="audio/Ehd-e-Wafa OST  Rahat Fateh Ali Khan  (ISPR Official Song).mp3">
                             </audio>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                                 <p>Dard Rukhta Nahi</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Dard Rukta Nahi OST _ Rahat Fateh Ali Khan _ Rock Version _ Official 4K Video.mp3">
+                                <source src="audio/Dard Rukta Nahi OST _ Rahat Fateh Ali Khan _ Rock Version _ Official 4K Video.mp3">
                             </audio>
                         </div>
                     </div>
@@ -53,7 +53,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -70,14 +70,58 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
+                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Qalandar</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Qalandar _ OST _ Rahat Fateh Ali Khan _ Har Pal Geo _ 7th Sky Entertainment.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- ##### Song Area End ##### -->
+
+                    <!-- Single Song Area -->
+                    <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Rahat Fateh Ali Khan 2.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Afreen Afreen</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Coke Studio Season 9_ Afreen Afreen_ Rahat Fateh Ali Khan & Momina Mustehsan.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- ##### Song Area End ##### -->
+
+                    <!-- Single Song Area -->
+                    <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
                             <img src="img/artist/Asim Azhar 5.webp" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Habibi</p>
+                                <p>Kesi Teri Khud Gharzi</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Habibi (Official Video) _ New Song 2022.mp3">
+                                <source src="audio/Kaisi Teri Khudgharzi OST _ Without Dialogues _ Rahat Fateh Ali Khan _ Danish Taimoor _ ARY Digtial.mp3">
                             </audio>
                         </div>
                     </div>
