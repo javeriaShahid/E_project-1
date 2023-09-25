@@ -16,6 +16,7 @@ use App\Http\Controllers\homecontroller;
 
 Route::get('/redirect',[homecontroller::class,'redirect']);
 Route::get('/redirect',[homecontroller::class,'fetch']);
+Route::get('/destroy/{id}',[imagecontroller::class,'destroy'])->name('destroy');
 
 
 Route::get('/welcome', function () {

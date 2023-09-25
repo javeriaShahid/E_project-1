@@ -81,7 +81,15 @@
         <td>{{$input->id}}</td>
         <td>{{$input->name}}</td>
         <td>{{$input->email}}</td>
-        <td></td>
+        <td>\
+        <form action="{{route ('destroy',$data->id )}}" method="POST" type="button" class="btn btn-danger">
+
+@csrf
+@method("DELETE")
+
+<a href="/destroy/{{$data->id}}" type="button"  class="btn btn-danger btn-sm">Delete</a>
+</form>
+        </td>
         <td></td>
     
     
@@ -93,7 +101,12 @@
     
                     </table>
                 
-                
+                    @if(session('we'))
+<div class="alert alert-primary" role="alert">
+{{session('we')}}
+</div>
+
+@endif
                 </div>
             </div>
         </div>

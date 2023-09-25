@@ -29,7 +29,15 @@ $fetch = User::all();
 
     return view('admin.home',compact("fetch"));
 }
+public function destroy(string $id){
 
+    $delete = User::findOrFail($id);
+
+    $delete->delete();
+
+return redirect()->back()->with('we' , 'succesfully deleted');
+
+ }
 
 
 }
