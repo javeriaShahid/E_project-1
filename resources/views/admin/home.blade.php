@@ -43,10 +43,10 @@
                     <h1 class="mt-8 text-2xl font-medium text-gray-900">
                         Welcome to Admin Dashboard
                     </h1>
-                
+
                     <p class="mt-6 text-gray-500 leading-relaxed">
                 The Administrator should be able to do the following: <br><br>
-                
+
                 a)	Add Music files with information.<br>
                 b)	Add Video files with information.<br>
                 c)	Create Categories viz. YEAR, ARTIST, ALBUM etc.<br>
@@ -54,16 +54,16 @@
                 e)	Delete Video files.<br>
                 f)	Create/Manage Users/Logins<br>
                 g)	Manage information/details on the WEBSITE<br>
-                
-                
+
+
                 </p>
-           
+
                 </div>
-           
+
                 <div class="bg-gray-200 bg-opacity-25 grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 p-6 lg:p-8">
-                
+
                     <table class="table">
-                     
+
     <tr>
         <th>ID</th>
         <th>NAME</th>
@@ -71,17 +71,17 @@
         <th>EDIT</th>
         <th>DELETE</th>
     </tr>
-  
-    
+
+
 
         @foreach ($fetch as $input)
-            
-  
+
+
         <tr>
         <td>{{$input->id}}</td>
         <td>{{$input->name}}</td>
         <td>{{$input->email}}</td>
-        <td>\
+        <td>
         <form action="{{route ('destroy',$input->id )}}" method="POST" type="button" class="btn btn-danger">
 
 @csrf
@@ -90,17 +90,17 @@
 <a href="/destroy/{{$input->id}}" type="button"  class="btn btn-danger btn-sm">Delete</a>
 </form>
         </td>
-        <td> <a href="/update/{{ $input>id }}" type="button" class="btn btn-success">Edit</a></td>
-    
-    
-    
-    
+        <td> <a href="/update/{{ $input->id}}" type="button" class="btn btn-success">Edit</a></td>
+
+
+
+
     </tr>
     @endforeach
- 
-    
+
+
                     </table>
-                
+
                     @if(session('we'))
 <div class="alert alert-primary" role="alert">
 {{session('we')}}

@@ -14,7 +14,7 @@ if($usertype === '1'){
 }
 else{
     return view('dashboard');
-    
+
 }
 
  }
@@ -36,14 +36,14 @@ $fetch = User::all();
 }
 public function edit($id, Request $request){
 
- 
+
 
     $update = new User();
 
 
         $update->name = $request->name;
         $update->email = $request->email;
-       
+
 
 
 
@@ -52,11 +52,11 @@ public function edit($id, Request $request){
     $update = User::all();
     //    return view("Admin"  ,compact('image_save'));
 
-    return redirect()->intended("/redirect");
+    return redirect()->back()->with('we' , 'succesfully updated');
 
 
     }
-public function destroy(string $id){
+public function destroy( $id){
 
     $delete = User::findOrFail($id);
 
