@@ -1,7 +1,7 @@
 @extends("components.header")
 @section("new")
     <!-- ##### Breadcumb Area Start ##### -->
-    <section class="breadcumb-area bg-img-3 bg-overlay">
+    <section class="breadcumb-area bg-img-6 bg-overlay">
         <div class="bradcumbContent">
             <p>Songs</p>
             <h2>Farhan Saeed</h2>
@@ -19,14 +19,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 7.webp" alt="">
+                            <img src="img/artist/farhan saeed 6.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Ehd-e-Wafa</p>
+                                <p>Suno Chanda</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Ehd-e-Wafa OST  Ali Zafar, Asim Azhar, Sahir Ali Bagga & Aima Baig - (ISPR Official Song).mp3">
+                                <source src="audio/Suno Chanda _ OST _ Farhan Saeed & Iqra Aziz l Ramzan Special l Hum TV Drama.mp3">
                             </audio>
                         </div>
                     </div>
@@ -40,10 +40,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Chand Mahiya</p>
+                                <p>Tu Thodi Der</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Chand Mahiya (Official Music Video).mp3">
+                                <source src="audio/Farhan Saeed _ Tu Thodi Der ( Original Version ).mp3">
                             </audio>
                         </div>
                     </div>
@@ -57,10 +57,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Dard</p>
+                                <p>Mere Humsafar</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
+                                <source src="audio/Mere HumSafar _ OST _ Farhan Saeed _ Hania Amir #ARYDigital.mp3">
                             </audio>
                         </div>
                     </div>

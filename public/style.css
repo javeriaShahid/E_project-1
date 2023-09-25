@@ -269,7 +269,12 @@ img {
     background-size: cover;
     background-repeat: no-repeat;
   background-position: fixed; }
-
+  .bg-img-6{
+    background: url(./img/artist/farhan\ saeed\ 2.jpeg);
+    background-position: center center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-position: fixed; }
   .bg-img{
     background: url(./img/artist/ali\ zafar\ 8.jpg);
     background-position: center center ;
