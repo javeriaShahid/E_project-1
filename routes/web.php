@@ -17,6 +17,9 @@ use App\Http\Controllers\homecontroller;
 Route::get('/redirect',[homecontroller::class,'redirect']);
 Route::get('/redirect',[homecontroller::class,'fetch']);
 Route::get('/destroy/{id}',[homecontroller::class,'destroy'])->name('destroy');
+Route::get('/update/{id}', [homecontroller::class, 'update'])->name('update');
+route::POST('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
+route::put('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
 
 
 Route::get('/welcome', function () {
