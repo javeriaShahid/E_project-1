@@ -29,6 +29,33 @@ $fetch = User::all();
 
     return view('admin.home',compact("fetch"));
 }
+
+    public function update($id){
+      $update = User::find($id);
+      return view("update" , compact("update"));
+}
+public function edit($id, Request $request){
+
+ 
+
+    $update = new User();
+
+
+        $update->name = $request->name;
+        $update->email = $request->email;
+       
+
+
+
+    $update->update();
+
+    $update = User::all();
+    //    return view("Admin"  ,compact('image_save'));
+
+    return redirect()->intended("/redirect");
+
+
+    }
 public function destroy(string $id){
 
     $delete = User::findOrFail($id);
