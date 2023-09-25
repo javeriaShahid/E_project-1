@@ -15,32 +15,12 @@
         <div class="container">
             <div class="row">
 
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-<<<<<<< HEAD
-                            <img src="img/artist/Rahat Fateh Ali Khan 2.jpg" alt="">
-=======
-                            <img src="img/artist/Rahat Fateh Ali Khan 8.jpg" alt="">
->>>>>>> fdf2fc8f6eb1fcf1e03bfcbd3e80bfadf6ca1d77
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>Ehd-e-Wafa</p>
-                            </div>
-                            <audio preload="auto" controls>
-                                <source src="audio/Ehd-e-Wafa OST  Rahat Fateh Ali Khan  (ISPR Official Song).mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
 
-                <!-- Single Song Area -->
-                <div class="col-12">
+                    <!-- Single Song Area -->
+                    <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 8.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -53,28 +33,33 @@
                     </div>
                 </div>
 
-                <!-- Single Song Area -->
-                <div class="col-12">
+       
+    <!-- ##### Song Area End ##### -->
+                    <!-- Single Song Area -->
+                    <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 2.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 4.webp" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
                                 <p>Koi Chand Rakh</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Koi Chand Rakh OST - Singer Rahat Fateh Ali Khan - Ayeza Khan - Pakistani Dramas OST.mp3">
+                                <source src="audio/Koi Chand Rakh OST - Singer Rahat Fateh Ali Khan - Ayeza Khan - Pakistani Dramas OST.mp3">
                             </audio>
                         </div>
                     </div>
                 </div>
 
+ 
+    <!-- ##### Song Area End ##### -->
+
                 <!-- Single Song Area -->
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -87,16 +72,13 @@
                     </div>
                 </div>
 
-            </div>
-        </div>
-    </div>
     <!-- ##### Song Area End ##### -->
 
                     <!-- Single Song Area -->
                     <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 2.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 4.webp" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -109,16 +91,13 @@
                     </div>
                 </div>
 
-            </div>
-        </div>
-    </div>
     <!-- ##### Song Area End ##### -->
 
                     <!-- Single Song Area -->
                     <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -131,30 +110,84 @@
                     </div>
                 </div>
 
-            </div>
-        </div>
-    </div>
     <!-- ##### Song Area End ##### -->
 
                         <!-- Single Song Area -->
                         <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 4.webp" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Kesi Teri Khud Gharzi</p>
+                                <p>Tum Jo Aye Zindagi Mei</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Kaisi Teri Khudgharzi OST _ Without Dialogues _ Rahat Fateh Ali Khan _ Danish Taimoor _ ARY Digtial.mp3">
+                                <source src="audio/Tum Jo Aay Zindagi Me _ ONCE UPON A TIME IN MUMBAI _ Rahat Fateh Ali Khan _ Trending Song.mp3">
                             </audio>
                         </div>
                     </div>
                 </div>
 
-            </div>
-        </div>
-    </div>
+    <!-- ##### Song Area End ##### -->
+
+                        <!-- Single Song Area -->
+                        <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Rahat Fateh Ali Khan 2.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Mere Paas Tum Ho</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Meray Paas Tum Ho _ OST _ Rahat Fateh Ali Khan _ ARY Digital Drama.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+    <!-- ##### Song Area End ##### -->
+
+
+                        <!-- Single Song Area -->
+                        <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Rahat Fateh Ali Khan 4.webp" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Khuda Aur Mohabbat</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Khuda Aur Mohabbat _ OST _ Rahat Fateh Ali Khan _ Nish Asher _ Har Pal Geo.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+    <!-- ##### Song Area End ##### -->
+
+                        <!-- Single Song Area -->
+                        <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Rahat Fateh Ali Khan 2.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Jag Soona Soona Laage</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="public/audio/Jag Soona Soona Lage [Full Song] - Om Shanti Om.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+</div>
+</div>
+</div>
     <!-- ##### Song Area End ##### -->
     @endsection
