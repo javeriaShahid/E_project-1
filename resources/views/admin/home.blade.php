@@ -90,7 +90,7 @@
 <a href="/destroy/{{$input->id}}" type="button"  class="btn btn-danger btn-sm">Delete</a>
 </form>
         </td>
-        <td> <a href="/update/{{ $data->id }}" type="button" class="btn btn-success">Edit</a></td>
+        <td> <a href="/update/{{ $input>id }}" type="button" class="btn btn-success">Edit</a></td>
     
     
     
