@@ -14,11 +14,11 @@ use App\Http\Controllers\homecontroller;
 |
 */
 
-Route::get('/redirect',[homecontroller::class,'redirect']);
-Route::get('/redirect',[homecontroller::class,'show']);
-Route::get('/destroy/{id}',[homecontroller::class,'destroy'])->name('destroy');
-Route::get('/update/{id}', [homecontroller::class, 'update'])->name('update');
-Route::post('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
+Route::get('/admin',[homecontroller::class,'admin_panel']);
+// Route::get('/admin',[homecontroller::class,'fetch']);
+// Route::get('/destroy/{id}',[homecontroller::class,'destroy'])->name('destroy');
+// Route::get('/update/{id}', [homecontroller::class, 'update'])->name('update');
+// Route::post('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
 
 
 

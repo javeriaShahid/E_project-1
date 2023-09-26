@@ -64,7 +64,7 @@
 
                 <div class="bg-gray-200 bg-opacity-25 grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 p-6 lg:p-8">
 
-                    <table class="table">
+                    {{-- <table class="table">
 
     <tr>
         <th>ID</th>
@@ -82,12 +82,12 @@
         <tr>
         <td>{{$input->id}}</td>
         <td>{{$input->name}}</td>
-        <td>{{$input->email}}</td>
+        <td>{{$input->email}}</td> --}}
 
-        <td> <a href="/update/{{ $input->id}}" type="button" class="btn btn-success">Edit</a></td>
+        {{-- <td> <a href="/update/{{ $input->id}}" type="button" class="btn btn-success">Edit</a></td>
 
         <td>
-            {{-- <form action="{{route ('destroy',$input->id )}}" method="POST" type="button" class="btn btn-danger"> --}}
+
 
     @csrf
     @method("DELETE")
@@ -95,22 +95,22 @@
     <a href="/destroy/{{$input->id}}" type="button"  class="btn btn-danger btn-sm">Delete</a>
 
             </td>
+ --}}
 
-
-    </tr>
+    {{-- </tr>
     @endforeach
 
 
-                    </table>
+                    </table> --}}
 
 
                 </div>
-                @if(session('we'))
+                {{-- @if(session('we'))
                 <div class="alert alert-primary" role="alert">
                 {{session('we')}}
                 </div>
 
-                @endif
+                @endif --}}
             </div>
         </div>
     </div>

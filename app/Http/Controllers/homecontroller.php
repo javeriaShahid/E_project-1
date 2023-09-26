@@ -7,61 +7,64 @@ use illuminate\Support\Facades\Auth;
 
 class homecontroller extends Controller
 {
- public function redirect(){
+ public function admin_panel(){
     $usertype=Auth::user()->usertype;
-if($usertype === '1'){
+if($usertype == '1'){
     return view('admin.home');
 }
 else{
-    return view('components.welcome');
+    return view('dashboard');
 
 }
 
  }
 
-public function show(Request $request)
-{
-$fetch = User::all();
-   return view('admin.home',compact("fetch"));
-}
+//  public function fetch(Request $request)
+//  {
 
-    public function update($id){
-      $update = User::find($id);
-      return view("update" , compact("update"));
-}
-public function edit($id, Request $request){
-
-
-
-    $edit = new User();
-
-
-        $edit->name = $request->name;
-        $edit->email = $request->email;
+//  $fetch = User::all();
 
 
 
 
-    $edit->update();
+//      return view('admin.home',compact("fetch"));
+//  }
 
-    $update = User::all();
+//     public function update($id){
+//       $update = User::find($id);
+//       return view("update" , compact("update"));
+// }
+// public function edit($id, Request $request){
 
 
-       return view("admin.home"  , compact('update'));
 
-    // return redirect()->intended("/redirect")->with('we' , 'succesfully updated');
+//     $update = new User();
 
 
-    }
-public function destroy(string $id){
+//         $update->name = $request->name;
+//         $update->email = $request->email;
 
-    $delete = User::findOrFail($id);
 
-    $delete->delete();
 
-return redirect()->back()->with('we' , 'succesfully deleted');
 
- }
+//     $update->update();
+
+//     $update = User::all();
+//        return view("admin.home"  ,compact('update'));
+
+//     // return redirect()->intended("/redirect")->with('we' , 'succesfully updated');
+
+
+//     }
+// public function destroy( $id){
+
+//     $delete = User::findOrFail($id);
+
+//     $delete->delete();
+
+// return redirect()->back()->with('we' , 'succesfully deleted');
+
+//  }
 
 
 }
