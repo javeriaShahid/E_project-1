@@ -103,13 +103,14 @@
 
                     </table>
 
-                    @if(session('we'))
-<div class="alert alert-primary" role="alert">
-{{session('we')}}
-</div>
 
-@endif
                 </div>
+                @if(session('we'))
+                <div class="alert alert-primary" role="alert">
+                {{session('we')}}
+                </div>
+
+                @endif
             </div>
         </div>
     </div>

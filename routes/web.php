@@ -15,11 +15,11 @@ use App\Http\Controllers\homecontroller;
 */
 
 Route::get('/redirect',[homecontroller::class,'redirect']);
-Route::get('/redirect',[homecontroller::class,'fetch']);
+Route::get('/redirect',[homecontroller::class,'show']);
 Route::get('/destroy/{id}',[homecontroller::class,'destroy'])->name('destroy');
 Route::get('/update/{id}', [homecontroller::class, 'update'])->name('update');
-route::POST('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
-route::put('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
+Route::POST('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
+
 
 
 Route::get('/welcome', function () {
@@ -87,39 +87,39 @@ Route::get('/contact', function(){
                             Route::get('/rahat', function(){
 
                                 return view('rahatfateh');
-    
-    
+
+
                                 });
 
                                 Route::get('/falak', function(){
 
                                     return view('falak');
-        
-        
+
+
                                     });
                                     Route::get('/bilal', function(){
 
                                         return view('bilalsaeed');
-            
-            
+
+
                                         });
                                         Route::get('/young', function(){
 
                                             return view('young');
-                
-                
+
+
                                             });
                                             Route::get('/hadiqa', function(){
 
                                                 return view('hadiqa');
-                    
-                    
+
+
                                                 });
                                                 Route::get('/bohemia', function(){
 
                                                     return view('bohemia');
-                        
-                        
+
+
                                                     });
                             Route::get('/about', function(){
 

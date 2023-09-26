@@ -19,15 +19,10 @@ else{
 
  }
 
-public function fetch(Request $request)
+public function show(Request $request)
 {
-
 $fetch = User::all();
-
-
-
-
-    return view('admin.home',compact("fetch"));
+   return view('admin.home',compact("fetch"));
 }
 
     public function update($id){
@@ -38,25 +33,27 @@ public function edit($id, Request $request){
 
 
 
-    $update = new User();
+    $edit = new User();
 
 
-        $update->name = $request->name;
-        $update->email = $request->email;
+        $edit->name = $request->name;
+        $edit->email = $request->email;
 
 
 
 
-    $update->update();
+    $edit->update();
 
     $update = User::all();
-    //    return view("Admin"  ,compact('image_save'));
 
-    return redirect()->intended("/redirect")->with('we' , 'succesfully updated');
+
+       return view("admin.home"  , compact('update'));
+
+    // return redirect()->intended("/redirect")->with('we' , 'succesfully updated');
 
 
     }
-public function destroy( $id){
+public function destroy($id){
 
     $delete = User::findOrFail($id);
 
