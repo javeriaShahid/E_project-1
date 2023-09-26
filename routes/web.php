@@ -18,7 +18,7 @@ Route::get('/redirect',[homecontroller::class,'redirect']);
 Route::get('/redirect',[homecontroller::class,'show']);
 Route::get('/destroy/{id}',[homecontroller::class,'destroy'])->name('destroy');
 Route::get('/update/{id}', [homecontroller::class, 'update'])->name('update');
-Route::POST('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
+Route::post('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
 
 
 

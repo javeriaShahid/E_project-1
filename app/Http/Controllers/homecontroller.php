@@ -13,7 +13,7 @@ if($usertype === '1'){
     return view('admin.home');
 }
 else{
-    return view('dashboard');
+    return view('components.welcome');
 
 }
 
@@ -53,7 +53,7 @@ public function edit($id, Request $request){
 
 
     }
-public function destroy($id){
+public function destroy(string $id){
 
     $delete = User::findOrFail($id);
 
