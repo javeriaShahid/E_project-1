@@ -49,6 +49,40 @@
                     </div>
                 </div>
 
+                                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 7.webp" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>No Sense</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 7.webp" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>We Are</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
                 <!-- Single Song Area -->
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
