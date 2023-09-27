@@ -1,4 +1,4 @@
-@extends("components.header")
+    @extends("components.header")
 @section("new")
     <!-- ##### Breadcumb Area Start ##### -->
     <section class="breadcumb-area bg-img-3 bg-overlay">
@@ -23,7 +23,7 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Ehd-e-Wafa</p>
+                                <p>Don't Mind</p>
                             </div>
                             <audio preload="auto" controls>
                                 <source src="audio\Ehd-e-Wafa OST  Ali Zafar, Asim Azhar, Sahir Ali Bagga & Aima Baig - (ISPR Official Song).mp3">
@@ -40,7 +40,7 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Chand Mahiya</p>
+                                <p>Gumaan</p>
                             </div>
                             <audio preload="auto" controls>
                                 <source src="audio\Asim Azhar - Chand Mahiya (Official Music Video).mp3">
@@ -57,7 +57,7 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Dard</p>
+                                <p>Quarantine</p>
                             </div>
                             <audio preload="auto" controls>
                                 <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
@@ -66,6 +66,74 @@
                     </div>
                 </div>
 
+                                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Afsany</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Afsany</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Afsany</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Afsany</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+                
                 <!-- Single Song Area -->
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
@@ -74,7 +142,7 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Habibi</p>
+                                <p>Karachi Chal</p>
                             </div>
                             <audio preload="auto" controls>
                                 <source src="audio\Asim Azhar - Habibi (Official Video) _ New Song 2022.mp3">
