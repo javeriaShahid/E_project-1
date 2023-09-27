@@ -32,6 +32,57 @@
                     </div>
                 </div>
 
+                                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Humraah</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Jo Tu na mila</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Sinfeahan</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+                
                 <!-- Single Song Area -->
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
@@ -48,6 +99,24 @@
                         </div>
                     </div>
                 </div>
+
+                                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 8.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Khuwaish</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
 
                 <!-- Single Song Area -->
                 <div class="col-12">
