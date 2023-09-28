@@ -30,33 +30,33 @@
             <div class="row oneMusic-albums">
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item t c p">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a ">
                     <div class="single-album">
-                        <img src="img/bg-img/a1.jpg" alt="">
+                        <img src="img/artist/Atif 3.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
-                                <h5>The Cure</h5>
+                            <a href="/atif">
+                                <h5>Atif Aslam</h5>
                             </a>
-                            <p>Second Song</p>
+                            <p>Songs</p>
                         </div>
                     </div>
                 </div>
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item s e q">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
                         <img src="img/bg-img/a2.jpg" alt="">
                         <div class="album-info">
                             <a href="#">
-                                <h5>Sam Smith</h5>
+                                <h5>Ali Zafar</h5>
                             </a>
-                            <p>Underground</p>
+                            <p>Songs</p>
                         </div>
                     </div>
                 </div>
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item w f r">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
                         <img src="img/bg-img/a3.jpg" alt="">
                         <div class="album-info">
@@ -69,7 +69,7 @@
                 </div>
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item t g u">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
                         <img src="img/bg-img/a4.jpg" alt="">
                         <div class="album-info">
@@ -82,7 +82,7 @@
                 </div>
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item d h v">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
                         <img src="img/bg-img/a5.jpg" alt="">
                         <div class="album-info">
@@ -95,7 +95,7 @@
                 </div>
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item t i x">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
                         <img src="img/bg-img/a6.jpg" alt="">
                         <div class="album-info">
@@ -108,7 +108,7 @@
                 </div>
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item b j y">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
                         <img src="img/bg-img/a7.jpg" alt="">
                         <div class="album-info">
@@ -121,7 +121,7 @@
                 </div>
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a k z">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
                         <img src="img/bg-img/a8.jpg" alt="">
                         <div class="album-info">
@@ -134,7 +134,7 @@
                 </div>
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item w l number">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
                         <img src="img/bg-img/a9.jpg" alt="">
                         <div class="album-info">
@@ -147,7 +147,7 @@
                 </div>
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item d m">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
                         <img src="img/bg-img/a10.jpg" alt="">
                         <div class="album-info">
@@ -160,7 +160,7 @@
                 </div>
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item t n">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
                         <img src="img/bg-img/a11.jpg" alt="">
                         <div class="album-info">
@@ -173,7 +173,7 @@
                 </div>
 
                 <!-- Single Album -->
-                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item b o">
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
                         <img src="img/bg-img/a12.jpg" alt="">
                         <div class="album-info">
@@ -185,6 +185,18 @@
                     </div>
                 </div>
 
+                 <!-- Single Album -->
+                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item d">
+                    <div class="single-album">
+                        <img src="img/bg-img/a12.jpg" alt="">
+                        <div class="album-info">
+                            <a href="/2014">
+                                <h5>Year (2014)</h5>
+                            </a>
+                            <p>Songs</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

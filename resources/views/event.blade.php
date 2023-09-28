@@ -26,7 +26,7 @@
                         </div>
                         <div class="event-text">
                             <h4>Atif Aslam</h4>
-                         
+
                             <a href="/atif" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
@@ -42,7 +42,7 @@
                         </div>
                         <div class="event-text">
                             <h4>Asim Azhar</h4>
-                           
+
                             <a href="/asim" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                         </div>
                         <div class="event-text">
                             <h4>Ali Zafar</h4>
-                            
+
                             <a href="/ali" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
@@ -71,7 +71,7 @@
                         </div>
                         <div class="event-text">
                             <h4>Rahat Fateh Ali Khan</h4>
-                         
+
                             <a href="/rahat" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
@@ -87,28 +87,13 @@
                         </div>
                         <div class="event-text">
                             <h4>Falak Shabbir</h4>
-                        
+
                             <a href="/falak" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
                 </div>
 
-                <!-- Single Event Area -->
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="single-event-area mb-30">
-                        <div class="event-thumbnail">
-                            <a href="/selena">
-                                 <img src="img/artist/Atif 3.jpg" alt="">
-                            </a>
 
-                        </div>
-                        <div class="event-text">
-                            <h4>Selena Gomez</h4>
-                         
-                            <a href="/selena" class="btn see-more-btn">Songs</a>
-                        </div>
-                    </div>
-                </div>
 
                 <!-- Single Event Area -->
                 <div class="col-12 col-md-6 col-lg-4">
@@ -120,28 +105,13 @@
                         </div>
                         <div class="event-text">
                             <h4>Farhan Saeed</h4>
-                          
+
                             <a href="/farhan" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
                 </div>
 
-                <!-- Single Event Area -->
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="single-event-area mb-30">
-                        <div class="event-thumbnail">
-                            <a href="/justin">
-                                 <img src="img/artist/Justin Beiber.jpg" alt="">
-                            </a>
 
-                        </div>
-                        <div class="event-text">
-                            <h4>Justin Bieber</h4>
-                         
-                            <a href="/justin" class="btn see-more-btn">Songs</a>
-                        </div>
-                    </div>
-                </div>
 
                 <!-- Single Event Area -->
                 <div class="col-12 col-md-6 col-lg-4">
@@ -153,7 +123,7 @@
                         </div>
                         <div class="event-text">
                             <h4>Bilal Saeed</h4>
-                           
+
                             <a href="/bilal" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
@@ -169,7 +139,7 @@
                         </div>
                         <div class="event-text">
                             <h4>Young Stunners</h4>
-                          
+
                             <a href="/young" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
@@ -184,7 +154,7 @@
                         </div>
                         <div class="event-text">
                             <h4>Hadiqa Kiani</h4>
-                           
+
                             <a href="/hadiqa" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
@@ -194,27 +164,57 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail">
-                            <a href="bohemia">
+                            <a href="/bohemia">
                                  <img src="img/artist/bohemia.jpg" alt="">
                             </a>
 
                         </div>
                         <div class="event-text">
                             <h4>BOHEMIA</h4>
-                         
+
                             <a href="/bohemia" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
                 </div>
 
 
+   <!-- Single Event Area -->
+   <div class="col-12 col-md-6 col-lg-4">
+    <div class="single-event-area mb-30">
+        <div class="event-thumbnail">
+            <a href="/selena">
+                 <img src="img/artist/selena.jpg" alt="">
+            </a>
+
+        </div>
+        <div class="event-text">
+            <h4>Selena Gomez</h4>
+
+            <a href="/selena" class="btn see-more-btn">Songs</a>
+        </div>
+    </div>
+</div>
 
 
-
+       <!-- Single Event Area -->
+       <div class="col-12 col-md-6 col-lg-4">
+        <div class="single-event-area mb-30">
+            <div class="event-thumbnail">
+                <a href="/justin">
+                     <img src="img/artist/Justin Beiber 4.webp" alt="">
+                </a>
 
             </div>
+            <div class="event-text">
+                <h4>Justin Bieber</h4>
 
-           
+                <a href="/justin" class="btn see-more-btn">Songs</a>
+            </div>
+        </div>
+    </div>
+            </div>
+
+
         </div>
     </section>
     <!-- ##### Events Area End ##### -->
