@@ -19,14 +19,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/young stunners.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Wo Banda Nai</p>
+                                <p>Friends</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/WOH BANDA NAI (Audio) - Young Stunners  Talha Anjum  Talhah Yunus  Jokhay  Kali Denali Music.mp3">
+                                <source src="audio/Justin Bieber & BloodPop - Friends (Official Music Video).mp3">
                             </audio>
                         </div>
                     </div>
@@ -40,10 +40,44 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Two Tone</p>
+                                <p>Company</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/TWO TONE - Young Stunners  Talha Anjum  Talhah Yunus  Prod. by Umair (Official Music Video).mp3">
+                                <source src="audio/Justin Bieber - Company.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>I don't Care</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Ed Sheeran & Justin Bieber - I Don't Care [Official Music Video].mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>I Feel Funny</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Justin Bieber - I Feel Funny [Lyrics].mp3">
                             </audio>
                         </div>
                     </div>
@@ -57,10 +91,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Talk To me</p>
+                                <p>No Sense</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/TALK TO ME - Young Stunners  Talha Anjum  Talhah Yunus  Prod. By Jokhay (Official Audio).mp3">
+                                <source src="audio/Justin Bieber ft. Travi$ Scott - No Sense (PURPOSE_ The Movement) [Official Video].mp3">
                             </audio>
                         </div>
                     </div>

@@ -115,6 +115,14 @@ Route::get('/contact', function(){
 
 
                                                 });
+
+                                                Route::get('/justin', function(){
+
+                                                    return view('justin');
+    
+    
+                                                    });
+
                                                 Route::get('/bohemia', function(){
 
                                                     return view('bohemia');
