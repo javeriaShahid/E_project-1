@@ -3,42 +3,35 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Songs;
 
+class usercontroller extends Controller
 {
-    //     public function index(){
 
-    // return view('index');
+public function store(Request $request){
 
-    //     }
-    //     public function contact(){
+$store = new Songs();
 
-    //         return view('contact');
+$file=$request->file;
 
-    //             }
+$filename= time().'.' . $file->getClientOriginalExtension();
 
-    //             public function album(){
+$request->file->move('assets',$filename);
 
-    //                 return view('albums-store');
+$store->file=$filename;
 
-    //                     }
-    //                     public function blog(){
 
-    //                         return view('blog');
+$store->name=$request->name;
+$store->information=$request->inform;
 
-    //                             }
+$store->save();
+ return view('index');
 
-    // public function event(){
 
-    // return view('event');
-    // }
+}
 
-    // public function login(){
 
-    //  return view('login');
-    //  }
 
-    
-    
 
 
 }
