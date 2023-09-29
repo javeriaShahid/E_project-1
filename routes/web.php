@@ -19,8 +19,8 @@ Route::get('/admin',[homecontroller::class,'admin_panel']);
 // Route::get('/destroy/{id}',[homecontroller::class,'destroy'])->name('destroy');
 // Route::get('/update/{id}', [homecontroller::class, 'update'])->name('update');
 // Route::post('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
-
-
+Route::post('/upload',[usercontroller::class,'store']);
+// Route::post('/show',[usercontroller::class,'show']);
 
 Route::get('/welcome', function () {
     return view('welcome');
@@ -65,8 +65,8 @@ Route::get('/contact', function(){
                 Route::get('/selena', function(){
 
                     return view('selena');
-    
-    
+
+
                     });
 
                 Route::get('/ali', function(){

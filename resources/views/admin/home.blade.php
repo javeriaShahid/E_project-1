@@ -125,17 +125,25 @@
 
 <h1 class="text-center "><b>Add Songs</b></h1>
 <br>
-<form action="" method="POST" class="form-group" enctype="multipart/form-data" >
+<form action="{{url('upload')}}" method="POST" class="form-group" enctype="multipart/form-data" >
 
 
 @csrf
-              <input type="text" class="form-control" name="music" placeholder="Song Name">
+              <input type="text" class="form-control" name="name" placeholder="Song Name">
               <input type="text" class="form-control" name="inform" placeholder="Information">
               <input type="file" class="form-control" name="file">
 
               <input type="submit" class="btn btn-primary">
 
 </form>
+
+
+@if(session('we'))
+<div class="alert alert-primary" role="alert">
+{{session('we')}}
+</div>
+
+@endif
             </main>
         </div>
 

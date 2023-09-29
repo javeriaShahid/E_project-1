@@ -25,7 +25,7 @@ $store->name=$request->name;
 $store->information=$request->inform;
 
 $store->save();
- return view('index');
+ return redirect()->back()->with('we','Succesfully Added');
 
 
 }
