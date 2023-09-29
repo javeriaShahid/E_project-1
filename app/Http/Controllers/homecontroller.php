@@ -19,15 +19,16 @@ else{
 
  }
 
-//  public function fetch(Request $request)
+
+//  public function abc(Request $request)
 //  {
 
-//  $fetch = User::all();
+//   $show = User::all();
 
 
 
 
-//      return view('admin.home',compact("fetch"));
+//      return view('admin.home',compact("show"));
 //  }
 
 //     public function update($id){

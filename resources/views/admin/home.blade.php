@@ -66,7 +66,7 @@
 
                 <div class="bg-gray-200 bg-opacity-25 grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 p-6 lg:p-8">
 
-                    {{-- <table class="table">
+      {{-- <table class="table">
 
     <tr>
         <th>ID</th>
@@ -78,15 +78,15 @@
 
 
 
-        @foreach ($fetch as $input)
+        @foreach($show as $show)
 
 
         <tr>
-        <td>{{$input->id}}</td>
-        <td>{{$input->name}}</td>
-        <td>{{$input->email}}</td> --}}
+        <td>{{$show->id}}</td>
+        <td>{{$show->name}}</td>
+        <td>{{$show->email}}</td>
 
-        {{-- <td> <a href="/update/{{ $input->id}}" type="button" class="btn btn-success">Edit</a></td>
+        <td> <a href="/update/{{ $show->id}}" type="button" class="btn btn-success">Edit</a></td>
 
         <td>
 
@@ -94,12 +94,12 @@
     @csrf
     @method("DELETE")
 
-    <a href="/destroy/{{$input->id}}" type="button"  class="btn btn-danger btn-sm">Delete</a>
+    <a href="/destroy/{{$show->id}}" type="button"  class="btn btn-danger btn-sm">Delete</a>
 
             </td>
- --}}
 
-    {{-- </tr>
+
+     </tr>
     @endforeach
 
 
@@ -138,9 +138,9 @@
 </form>
 
 </div>
-@if(session('we'))
+@if(session('us'))
 <div class="alert alert-primary" role="alert">
-{{session('we')}}
+{{session('us')}}
 </div>
 
 @endif
@@ -155,16 +155,19 @@
     <th>File</th>
 </tr>
 
-@foreach($data as $show)
+@foreach($data as $data)
 
 <tr>
-<td>{{$show->name}}</td>
-<td>{{$show->information}}</td>
-<td>{{$show->file}}</td>
+<td>{{$data->name}}</td>
+<td>{{$data->information}}</td>
+<td><a href="{{url('/admin',$data->id)}}">View</a></td>
 </tr>
 
 @endforeach
 </table>
+
+
+<iframe src="/audio/{{$data->file}}"></iframe>
             </main>
         </div>
 

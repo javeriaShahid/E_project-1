@@ -15,16 +15,17 @@ use App\Http\Controllers\homecontroller;
 */
 
 Route::get('/admin',[homecontroller::class,'admin_panel']);
-// Route::get('/admin',[homecontroller::class,'fetch']);
+// Route::get('/admin',[homecontroller::class,'abc']);
 // Route::get('/destroy/{id}',[homecontroller::class,'destroy'])->name('destroy');
 // Route::get('/update/{id}', [homecontroller::class, 'update'])->name('update');
 // Route::post('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
 Route::post('/upload',[usercontroller::class,'store']);
-Route::get('/show',[usercontroller::class,'show']);
+Route::get('/admin',[usercontroller::class,'show']);
+Route::get('/admin/{is}',[usercontroller::class,'view']);
 
-Route::get('/welcome', function () {
-    return view('welcome');
-});
+// Route::get('/welcome', function () {
+//     return view('welcome');
+// });
 Route::get('/', function(){
 
 return view('index');

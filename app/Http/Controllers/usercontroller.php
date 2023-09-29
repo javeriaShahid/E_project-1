@@ -25,7 +25,7 @@ $store->name=$request->name;
 $store->information=$request->inform;
 
 $store->save();
- return redirect()->back()->with('we','Succesfully Added');
+ return redirect()->back()->with('us','Succesfully Added');
 
 
 }
@@ -39,7 +39,13 @@ return view('admin.home', compact('data'));
 }
 
 
+public function view($id){
+$data=Songs::find($id);
+return view('admin.home' ,compact ('data'));
 
+
+
+}
 
 
 
