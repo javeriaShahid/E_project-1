@@ -62,6 +62,13 @@ Route::get('/contact', function(){
 
                 });
 
+                Route::get('/selena', function(){
+
+                    return view('selena');
+    
+    
+                    });
+
                 Route::get('/ali', function(){
 
                     return view('alizafar');

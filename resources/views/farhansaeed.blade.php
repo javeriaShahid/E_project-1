@@ -70,14 +70,31 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
+                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Suno Chanda 2</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/OPPO presents Suno Chanda  Season 2  OST  HUM TV  Drama.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
                             <img src="img/artist/Asim Azhar 5.webp" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Habibi</p>
+                                <p>Koi Rokay Na Mujhy</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Habibi (Official Video) _ New Song 2022.mp3">
+                                <source src="audio/Farhan Saeed - Koi Rokay Na Mujhay - (Official Video).mp3">
                             </audio>
                         </div>
                     </div>

@@ -51,14 +51,14 @@
                 <!-- Single Event Area -->
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
-                        <div class="event-thumbnail"><a href="/ali">
-                            <img src="img/artist/ali zafar 4.jpg" alt="">
-                            </a>
+                        <div class="event-thumbnail">
+                            <a href="/hadiqa"></a>
+                            <img src="img/artist/hadiqakiani.jpg" alt="">
                         </div>
                         <div class="event-text">
-                            <h4>Ali Zafar</h4>
+                            <h4>Hadiqa Kiani</h4>
 
-                            <a href="/ali" class="btn see-more-btn">Songs</a>
+                            <a href="/hadiqa" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
                 </div>
@@ -73,6 +73,22 @@
                             <h4>Rahat Fateh Ali Khan</h4>
 
                             <a href="/rahat" class="btn see-more-btn">Songs</a>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Single Event Area -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-event-area mb-30">
+                        <div class="event-thumbnail"><a href="/ali">
+                            <img src="img/artist/ali zafar 4.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="event-text">
+                            <h4>Ali Zafar</h4>
+
+                            <a href="/ali" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
                 </div>
@@ -145,20 +161,6 @@
                     </div>
                 </div>
 
-                <!-- Single Event Area -->
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="single-event-area mb-30">
-                        <div class="event-thumbnail">
-                            <a href="/hadiqa"></a>
-                            <img src="img/artist/hadiqakiani.jpg" alt="">
-                        </div>
-                        <div class="event-text">
-                            <h4>Hadiqa Kiani</h4>
-
-                            <a href="/hadiqa" class="btn see-more-btn">Songs</a>
-                        </div>
-                    </div>
-                </div>
 
                 <!-- Single Event Area -->
                 <div class="col-12 col-md-6 col-lg-4">
@@ -183,7 +185,7 @@
     <div class="single-event-area mb-30">
         <div class="event-thumbnail">
             <a href="/selena">
-                 <img src="img/artist/selena.jpg" alt="">
+                 <img src="img/artist/selena3.webp" alt="">
             </a>
 
         </div>
@@ -195,13 +197,12 @@
     </div>
 </div>
 
-
        <!-- Single Event Area -->
        <div class="col-12 col-md-6 col-lg-4">
         <div class="single-event-area mb-30">
             <div class="event-thumbnail">
                 <a href="/justin">
-                     <img src="img/artist/Justin Beiber 4.webp" alt="">
+                     <img src="img/artist/justinb1.jpg" alt="">
                 </a>
 
             </div>
@@ -212,6 +213,8 @@
             </div>
         </div>
     </div>
+
+
             </div>
 
 

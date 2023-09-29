@@ -19,14 +19,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="public/img/artist/Atif Aslam 1.jpg" alt="">
+                            <img src="img/artist/selena5.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Pheli Dafa</p>
+                                <p>Back To You</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Atif Aslam_ Pehli Dafa Song (Video)  Ileana DCruz  Latest Hindi Song 2017  T-Series.mp3">
+                                <source src="audio/Selena Gomez - Back To You.mp3">
                             </audio>
                         </div>
                     </div>
@@ -36,14 +36,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 8.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Tu Janay Na</p>
+                                <p>Let Me Get Me</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Tu Jaane Na Full Video - Ajab Prem Ki Ghazab Kahani  Ranbir Kapoor, Katrina  Atif Aslam  Pritam.mp3">
+                                <source src="audio/Selena Gomez - Let Me Get Me (Official Lyrics).mp3">
                             </audio>
                         </div>
                     </div>
@@ -53,14 +53,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/selena5.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Tere Sang Yaara</p>
+                                <p>Right My Wrongs</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Tere Sang Yaara - Rustom  Akshay Kumar & Ileana D'cruz   Arko Ft. Atif Aslam  Manoj Muntashir.mp3">
+                                <source src="audio/Selena Gomez - Right My Wrongs (ft. Post Malone).mp3">
                             </audio>
                         </div>
                     </div>
@@ -70,11 +70,11 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Main Rang Sharbaton Ka</p>
+                                <p>Fingers</p>
                             </div>
                             <audio preload="auto" controls>
                                 <source src="public/audio/Main Rang Sharbaton Ka - Phata Poster Nikhla Hero I Shahid,Ileana  Atif Aslam & Chinmayi  Pritam.mp3">
@@ -87,11 +87,96 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/selena5.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Dil Meri Na Sunay</p>
+                                <p>Ring</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Selena Gomez - Ring (Official Lyrics).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>A Year Without Rain</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Selena Gomez & The Scene - A Year Without Rain.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>It Ain't Me</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Kygo, Selena Gomez  It Ain't Me (Lyrics).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                 <!-- Single Song Area -->
+                 <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Intermission-Flower</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/ZAYN - INTERMISSION_ fLoWer (Lyric Video).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Entertainer</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Zayn feat. Selena Gomez - ENTERTAINER.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Love Like This</p>
                             </div>
                             <audio preload="auto" controls>
                                 <source src="public/audio/Dil Meri Na Sune Song Video - Genius  Utkarsh, Ishita  Atif Aslam  Himesh Reshammiya  Manoj.mp3">
@@ -104,11 +189,11 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/selena5.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Main Rang Sharbaton Ka</p>
+                                <p>Back To Life</p>
                             </div>
                             <audio preload="auto" controls>
                                 <source src="public/audio/Main Rang Sharbaton Ka - Phata Poster Nikhla Hero I Shahid,Ileana  Atif Aslam & Chinmayi  Pritam.mp3">
