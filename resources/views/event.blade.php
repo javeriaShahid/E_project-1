@@ -67,7 +67,7 @@
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
                         <div class="event-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 1.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 5.jpg" alt="">
                         </div>
                         <div class="event-text">
                             <h4>Rahat Fateh Ali Khan</h4>
@@ -77,6 +77,40 @@
                     </div>
                 </div>
 
+   <!-- Single Event Area -->
+   <div class="col-12 col-md-6 col-lg-4">
+    <div class="single-event-area mb-30">
+        <div class="event-thumbnail">
+            <a href="/billie">
+                 <img src="img/artist/billiee4.webp" alt="">
+            </a>
+
+        </div>
+        <div class="event-text">
+            <h4>Billie Ellish</h4>
+
+            <a href="/billie" class="btn see-more-btn">Songs</a>
+        </div>
+    </div>
+</div>
+
+
+       <!-- Single Event Area -->
+       <div class="col-12 col-md-6 col-lg-4">
+        <div class="single-event-area mb-30">
+            <div class="event-thumbnail">
+                <a href="/justin">
+                     <img src="img/artist/justinb1.jpg" alt="">
+                </a>
+
+            </div>
+            <div class="event-text">
+                <h4>Justin Bieber</h4>
+
+                <a href="/justin" class="btn see-more-btn">Songs</a>
+            </div>
+        </div>
+    </div>
 
                 <!-- Single Event Area -->
                 <div class="col-12 col-md-6 col-lg-4">
@@ -197,22 +231,6 @@
     </div>
 </div>
 
-       <!-- Single Event Area -->
-       <div class="col-12 col-md-6 col-lg-4">
-        <div class="single-event-area mb-30">
-            <div class="event-thumbnail">
-                <a href="/justin">
-                     <img src="img/artist/justinb1.jpg" alt="">
-                </a>
-
-            </div>
-            <div class="event-text">
-                <h4>Justin Bieber</h4>
-
-                <a href="/justin" class="btn see-more-btn">Songs</a>
-            </div>
-        </div>
-    </div>
 
 
             </div>

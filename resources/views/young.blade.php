@@ -19,7 +19,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 7.webp" alt="">
+                            <img src="img/artist/youngg3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -36,7 +36,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 8.jpg" alt="">
+                            <img src="img/artist/youngg4.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -53,7 +53,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/youngg3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -70,7 +70,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/youngg4.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -87,7 +87,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/youngg3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -104,7 +104,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/youngg4.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -121,7 +121,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/youngg3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -138,7 +138,7 @@
                     <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/youngg4.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -155,7 +155,7 @@
                     <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/youngg3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -172,7 +172,7 @@
                     <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/youngg4.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -189,7 +189,7 @@
                     <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/youngg3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -206,7 +206,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/youngg4.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">

@@ -4,7 +4,7 @@
     <section class="breadcumb-area bg-img-3 bg-overlay">
         <div class="bradcumbContent">
             <p>Songs</p>
-            <h2>Atif Aslam</h2>
+            <h2>Billie Ellish</h2>
         </div>
     </section>
     <!-- ##### Breadcumb Area End ##### -->
@@ -23,10 +23,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Pheli Dafa</p>
+                                <p>Lovely</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Atif Aslam_ Pehli Dafa Song (Video)  Ileana DCruz  Latest Hindi Song 2017  T-Series.mp3">
+                                <source src="audio/Billie Eilish, Khalid - lovely (Official Music Video).mp3">
                             </audio>
                         </div>
                     </div>
@@ -40,10 +40,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Tu Janay Na</p>
+                                <p>Happier Than Ever</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Tu Jaane Na Full Video - Ajab Prem Ki Ghazab Kahani  Ranbir Kapoor, Katrina  Atif Aslam  Pritam.mp3">
+                                <source src="audio/Billie Eilish - Happier Than Ever (Live at Lollapalooza Brazil 2023) [HD].mp3">
                             </audio>
                         </div>
                     </div>
@@ -57,10 +57,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Tere Sang Yaara</p>
+                                <p>What was I made for</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Tere Sang Yaara - Rustom  Akshay Kumar & Ileana D'cruz   Arko Ft. Atif Aslam  Manoj Muntashir.mp3">
+                                <source src="audio/Billie Eilish - What Was I Made For_ (Live from Lollapalooza Chicago 2023).mp3">
                             </audio>
                         </div>
                     </div>
@@ -74,10 +74,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Main Rang Sharbaton Ka</p>
+                                <p>Therefore I am</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Main Rang Sharbaton Ka - Phata Poster Nikhla Hero I Shahid,Ileana  Atif Aslam & Chinmayi  Pritam.mp3">
+                                <source src="audio/Billie Eilish - Therefore I Am (Official Music Video).mp3">
                             </audio>
                         </div>
                     </div>
@@ -91,10 +91,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Dil Meri Na Sunay</p>
+                                <p>Everything I wanted</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Dil Meri Na Sune Song Video - Genius  Utkarsh, Ishita  Atif Aslam  Himesh Reshammiya  Manoj.mp3">
+                                <source src="audio/Billie Eilish - everything i wanted.mp3">
                             </audio>
                         </div>
                     </div>
@@ -108,10 +108,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Main Rang Sharbaton Ka</p>
+                                <p>When The Party Is Over</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Main Rang Sharbaton Ka - Phata Poster Nikhla Hero I Shahid,Ileana  Atif Aslam & Chinmayi  Pritam.mp3">
+                                <source src="audio/Billie Eilish - when the party's over (1).mp3">
                             </audio>
                         </div>
                     </div>
