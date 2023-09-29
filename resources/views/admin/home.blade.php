@@ -10,8 +10,7 @@
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
-        <link rel="stylesheet" href="http://localhost/Fuck/resources/assets/js/jPlayer/jplayer.flat.css" type="text/css" />
-        <link rel="stylesheet" href="http://localhost/Fuck/resources/assets/css/app.v1.css" type="text/css" />
+ 
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
@@ -118,33 +117,7 @@
     </div>
 <div>
 
-		<section id="content" class="m-t-lg wrapper-md animated fadeInUp">
-			<div class="container aside-xl">
-			
-
-			 	<section class="m-b-lg">
-
-					<form method="POST" enctype="multipart/form-data" action="http://localhost/Fuck/public/up-file">
-						{!! csrf_field() !!}
-
-						<input type="file" name="song_name"  class="form-control rounded input-lg text-center no-border" />
-						<p></p>
-
-						<input type="text" name="song_title" placeholder="Song Title"  class="form-control rounded input-lg text-center no-border" />
-						<p></p>
-
-
-						<input type="text" name="song_remarks" placeholder="Remarks"  class="form-control rounded input-lg text-center no-border" />
-						<p></p>
-
-						<input type="submit" class="btn btn-lg btn-warning lt b-white b-2x btn-block btn-rounded" value="Upload"/>
-
-					</form>
-
-
-				</section>
-			</div>
-		</section>
+	
 
 
 </div>
@@ -157,12 +130,7 @@
         @livewireScripts
 
 
-        <script src="http://localhost/Fuck/resources/assets/js/app.v1.js"></script>
-        <script src="http://localhost/Fuck/resources/assets/js/app.plugin.js"></script>
-        <script type="text/javascript" src="http://localhost/Fuck/resources/assets/js/jPlayer/jquery.jplayer.min.js"></script>
-        <script type="text/javascript" src="http://localhost/Fuck/resources/assets/js/jPlayer/add-on/jplayer.playlist.min.js"></script>
-        <script type="text/javascript" src="http://localhost/Fuck/resources/assets/js/jPlayer/demo.js"></script>
-        <script type="text/javascript" src="http://localhost/Fuck/resources/assets/js/sign_in.js"></script>
+      
     </body>
 </html>
 
