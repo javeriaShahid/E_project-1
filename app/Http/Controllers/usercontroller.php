@@ -16,7 +16,7 @@ $file=$request->file;
 
 $filename= time().'.' . $file->getClientOriginalExtension();
 
-$request->file->move('assets',$filename);
+$request->file->move('audio',$filename);
 
 $store->file=$filename;
 
@@ -29,6 +29,15 @@ $store->save();
 
 
 }
+
+public function show(){
+
+$data=Songs::all();
+return view('admin.home', compact('data'));
+
+
+}
+
 
 
 

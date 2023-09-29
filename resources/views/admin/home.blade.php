@@ -122,7 +122,7 @@
 
 
 </div>
-
+<div class="bg-gray-200 bg-opacity-25 grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 p-6 lg:p-8">
 <h1 class="text-center "><b>Add Songs</b></h1>
 <br>
 <form action="{{url('upload')}}" method="POST" class="form-group" enctype="multipart/form-data" >
@@ -137,13 +137,34 @@
 
 </form>
 
-
+</div>
 @if(session('we'))
 <div class="alert alert-primary" role="alert">
 {{session('we')}}
 </div>
 
 @endif
+
+
+
+<table class="table">
+
+<tr>
+    <th>Name</th>
+    <th>Information</th>
+    <th>File</th>
+</tr>
+
+@foreach($data as $show)
+
+<tr>
+<td>{{$show->name}}</td>
+<td>{{$show->information}}</td>
+<td>{{$show->file}}</td>
+</tr>
+
+@endforeach
+</table>
             </main>
         </div>
 

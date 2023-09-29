@@ -20,7 +20,7 @@ Route::get('/admin',[homecontroller::class,'admin_panel']);
 // Route::get('/update/{id}', [homecontroller::class, 'update'])->name('update');
 // Route::post('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
 Route::post('/upload',[usercontroller::class,'store']);
-// Route::post('/show',[usercontroller::class,'show']);
+Route::get('/show',[usercontroller::class,'show']);
 
 Route::get('/welcome', function () {
     return view('welcome');
