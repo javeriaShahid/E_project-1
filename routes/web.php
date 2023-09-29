@@ -69,7 +69,7 @@ Route::get('/contact', function(){
 
                     });
 
-                Route::get('/ali', function(){
+                Route::get(''/ali'', function(){
 
                     return view('alizafar');
 

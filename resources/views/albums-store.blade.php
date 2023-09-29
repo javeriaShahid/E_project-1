@@ -47,7 +47,7 @@
                     <div class="single-album">
                         <img src="img/bg-img/a2.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
+                            <a href="/ali">
                                 <h5>Ali Zafar</h5>
                             </a>
                             <p>Songs</p>
@@ -60,10 +60,10 @@
                     <div class="single-album">
                         <img src="img/bg-img/a3.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
-                                <h5>Will I am</h5>
+                            <a href="/bohemia">
+                                <h5>bohemia</h5>
                             </a>
-                            <p>First</p>
+                            <p>songs</p>
                         </div>
                     </div>
                 </div>
@@ -73,10 +73,10 @@
                     <div class="single-album">
                         <img src="img/bg-img/a4.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
-                                <h5>The Cure</h5>
+                            <a href="/asim">
+                                <h5>asim azhar</h5>
                             </a>
-                            <p>Second Song</p>
+                            <p> Songs</p>
                         </div>
                     </div>
                 </div>
@@ -86,10 +86,10 @@
                     <div class="single-album">
                         <img src="img/bg-img/a5.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
-                                <h5>DJ SMITH</h5>
+                            <a href="/bilal">
+                                <h5>bilal saeed</h5>
                             </a>
-                            <p>The Album</p>
+                            <p>songs</p>
                         </div>
                     </div>
                 </div>
@@ -99,10 +99,10 @@
                     <div class="single-album">
                         <img src="img/bg-img/a6.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
-                                <h5>The Ustopable</h5>
+                            <a href="/farhan">
+                                <h5>farhan saeed</h5>
                             </a>
-                            <p>Unplugged</p>
+                            <p>songs</p>
                         </div>
                     </div>
                 </div>
@@ -112,8 +112,8 @@
                     <div class="single-album">
                         <img src="img/bg-img/a7.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
-                                <h5>Beyonce</h5>
+                            <a href="/falak">
+                                <h5>Falak shabbir</h5>
                             </a>
                             <p>Songs</p>
                         </div>
@@ -125,10 +125,10 @@
                     <div class="single-album">
                         <img src="img/bg-img/a8.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
-                                <h5>Aam Smith</h5>
+                            <a href="/hadiqa">
+                                <h5>hadiqa</h5>
                             </a>
-                            <p>Underground</p>
+                            <p>songs</p>
                         </div>
                     </div>
                 </div>
@@ -138,10 +138,10 @@
                     <div class="single-album">
                         <img src="img/bg-img/a9.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
-                                <h5>Will I am</h5>
+                            <a href="/selena">
+                                <h5>selena gomez</h5>
                             </a>
-                            <p>First</p>
+                            <p>songs</p>
                         </div>
                     </div>
                 </div>
@@ -151,10 +151,10 @@
                     <div class="single-album">
                         <img src="img/bg-img/a10.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
-                                <h5>DJ SMITH</h5>
+                            <a href="/rahat">
+                                <h5>rahat fateh ali khan</h5>
                             </a>
-                            <p>The Album</p>
+                            <p>songs</p>
                         </div>
                     </div>
                 </div>
@@ -164,10 +164,10 @@
                     <div class="single-album">
                         <img src="img/bg-img/a11.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
-                                <h5>The Ustopable</h5>
+                            <a href="/justin">
+                                <h5>justin bieber</h5>
                             </a>
-                            <p>Unplugged</p>
+                            <p>songs</p>
                         </div>
                     </div>
                 </div>
@@ -177,8 +177,8 @@
                     <div class="single-album">
                         <img src="img/bg-img/a12.jpg" alt="">
                         <div class="album-info">
-                            <a href="#">
-                                <h5>Beyonce</h5>
+                            <a href="/young">
+                                <h5>young</h5>
                             </a>
                             <p>Songs</p>
                         </div>
