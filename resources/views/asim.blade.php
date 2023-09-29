@@ -43,7 +43,7 @@
                                 <p>Humraah</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="">
+                                <source src="audio/Humraah (Official Music Video) - Asim Azhar _ Malang _ Disha Patani, Aditya Roy Kapur (1).mp3">
                             </audio>
                         </div>
                     </div>
@@ -77,7 +77,7 @@
                                 <p>Sinfeahan</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
+                                <source src="audio/Sinf E Aahan _ OST _ Ft. Asim Azhar _ ARY Digital.mp3">
                             </audio>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                                 <p>Khuwaish</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="">
+                                <source src="audio/Khuwahish - Asim Azhar.mp3">
                             </audio>
                         </div>
                     </div>
