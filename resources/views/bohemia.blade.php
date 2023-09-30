@@ -4,7 +4,7 @@
     <section class="breadcumb-area bg-img-3 bg-overlay">
         <div class="bradcumbContent">
             <p>Songs</p>
-            <h2>Rahat Fateh Ali Khan</h2>
+            <h2>BOHEMIA</h2>
         </div>
     </section>
     <!-- ##### Breadcumb Area End ##### -->
@@ -23,10 +23,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Ehd-e-Wafa</p>
+                                <p>Subha Honay Na De</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Ehd-e-Wafa OST  Ali Zafar, Asim Azhar, Sahir Ali Bagga & Aima Baig - (ISPR Official Song).mp3">
+                                <source src="audio/SUBHA HONE NA DE REMIX Full Video Song  DISHOOM  John Abraham, Varun Dhawan, Jacqueline Fernandez.mp3">
                             </audio>
                         </div>
                     </div>
@@ -40,10 +40,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Chand Mahiya</p>
+                                <p>Dua Karo</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Chand Mahiya (Official Music Video).mp3">
+                                <source src="">
                             </audio>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Dard</p>
+                                <p>Ajj Kal</p>
                             </div>
                             <audio preload="auto" controls>
                                 <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">

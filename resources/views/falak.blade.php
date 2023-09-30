@@ -19,14 +19,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 7.webp" alt="">
+                            <img src="img/artist/falakk1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Ehd-e-Wafa</p>
+                                <p>I Mei Or Mein: Saajna</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Ehd-e-Wafa OST  Ali Zafar, Asim Azhar, Sahir Ali Bagga & Aima Baig - (ISPR Official Song).mp3">
+                                <source src="audio/I Me Aur Main_ Saajna (Lyrical)  Falak Shabir  John Abraham, Chitrangda Singh, Prachi Desai.mp3">
                             </audio>
                         </div>
                     </div>
@@ -36,14 +36,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 8.jpg" alt="">
+                            <img src="img/artist/falak shabir 5.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Chand Mahiya</p>
+                                <p>With You</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Chand Mahiya (Official Music Video).mp3">
+                                <source src="audio/With You - Official Music Video  Falak Shabir  DJ Harpz.mp3">
                             </audio>
                         </div>
                     </div>
@@ -53,14 +53,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/falakk1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Dard</p>
+                                <p>Pyaar Da Sahaara</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
+                                <source src="audio/Pyaar Da Sahara ( Official VIDEO)- Falak Shabir  Sarah Khan  Ali Mustafa  Latest2023.mp3">
                             </audio>
                         </div>
                     </div>
@@ -70,14 +70,134 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/falak shabir 5.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Habibi</p>
+                                <p>Zindagi</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Habibi (Official Video) _ New Song 2022.mp3">
+                                <source src="audio/Falak Shabir New Song  Sarah Khan  Zindagi (Official Video).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/falakk1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Maahi Ve</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Mahi Ve Falak Shabir ft Bloodline New Song.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/falak shabir 5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Das Ki Karaan</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/DAS KI KARAAN - Tony Kakkar, Falak Shabbir, Neha Kakkar.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/falakk1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Sapnay</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Falak Shabir & Sarah Khan New Song 2022  Sapnay (Official Video).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/falak shabir 5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Yaadaan</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Falak Shabir, Alizeh Shah  Harun B New Song  Yaadan (Official Video).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+    
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/falakk1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Billo Rani</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/BILLO RANI - FALAK SHABIR  PBN  PUNJABI  BHANGRA  SONG 2023.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/falak shabir 5.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Chup Chup Ke</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Falak Shabir_ Chup Chup Ke Full Video Feat. Bloodline Music  Mavi Singh  Latest Punjabi Songs 2020.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/falakk1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Rabba Ho</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/LYRICAL_ Falak Shabir (HD Video)  Rabba Ho Video Song  Latest Punjabi Songs 2022  T-Series.mp3">
                             </audio>
                         </div>
                     </div>

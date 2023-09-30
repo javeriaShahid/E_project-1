@@ -16,7 +16,7 @@ $file=$request->file;
 
 $filename= time().'.' . $file->getClientOriginalExtension();
 
-$request->file->move('assets',$filename);
+$request->file->move('audio',$filename);
 
 $store->file=$filename;
 
@@ -25,12 +25,27 @@ $store->name=$request->name;
 $store->information=$request->inform;
 
 $store->save();
- return redirect()->back()->with('we','Succesfully Added');
+ return redirect()->back()->with('us','Succesfully Added');
+
+
+}
+
+public function show(){
+
+$data=Songs::all();
+return view('admin.home', compact('data'));
 
 
 }
 
 
+public function view($id){
+$data=Songs::find($id);
+return view('admin.home' ,compact ('data'));
+
+
+
+}
 
 
 
