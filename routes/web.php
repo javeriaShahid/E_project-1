@@ -3,6 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\usercontroller;
 use App\Http\Controllers\homecontroller;
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -34,6 +36,8 @@ return view('index');
 Route::get('/album', function(){
 
 return view('albums-store');
+
+
 
 
 });
@@ -69,7 +73,7 @@ Route::get('/contact', function(){
 
                     });
 
-                Route::get(''/ali'', function(){
+                Route::get('/ali', function(){
 
                     return view('alizafar');
 
