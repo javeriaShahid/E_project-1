@@ -74,6 +74,13 @@ Route::get('/contact', function(){
 
                     });
 
+                    Route::get('/billie', function(){
+
+                        return view('billie');
+    
+    
+                        });
+
                 Route::get('/ali', function(){
 
                     return view('alizafar');

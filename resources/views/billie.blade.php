@@ -1,7 +1,7 @@
 @extends("components.header")
 @section("new")
     <!-- ##### Breadcumb Area Start ##### -->
-    <section class="breadcumb-area bg-img-3 bg-overlay">
+    <section class="breadcumb-area bg-img-23 bg-overlay">
         <div class="bradcumbContent">
             <p>Songs</p>
             <h2>Billie Ellish</h2>
@@ -19,7 +19,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="public/img/artist/Atif Aslam 1.jpg" alt="">
+                            <img src="img/artist/billiee 8.webp" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -36,7 +36,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 8.jpg" alt="">
+                            <img src="img/artist/billiee9.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -53,7 +53,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/billiee 8.webp" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -70,7 +70,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/billiee9.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -87,7 +87,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/billiee 8.webp" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -104,7 +104,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/billiee9.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">

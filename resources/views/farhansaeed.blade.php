@@ -1,7 +1,7 @@
 @extends("components.header")
 @section("new")
     <!-- ##### Breadcumb Area Start ##### -->
-    <section class="breadcumb-area bg-img-6 bg-overlay">
+    <section class="breadcumb-area bg-img-28 bg-overlay">
         <div class="bradcumbContent">
             <p>Songs</p>
             <h2>Farhan Saeed</h2>
@@ -19,7 +19,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/farhan saeed 6.jpg" alt="">
+                            <img src="img/artist/Farhan Saeed 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -36,7 +36,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 8.jpg" alt="">
+                            <img src="img/artist/farhan saeed 6.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -53,7 +53,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/Farhan Saeed 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -70,7 +70,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/farhan saeed 6.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -87,7 +87,41 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/Farhan Saeed 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Lathay Di Chaadar</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Coke Studio Season 10 Latthay Di Chaadar Quratulain Balouch & Farhan Saeed.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/farhan saeed 6.jpeg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Na Cher Malangaan Nu</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Na Cher Malangaan Nu ft. Farhan Saeed & Aima Baig  Bilal Saeed  Official Music Video.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Farhan Saeed 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
