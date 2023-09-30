@@ -158,17 +158,49 @@ Route::get('/contact', function(){
                                     });
 
 
+                                    Route::get('/2015', function(){
+
+                                        return view('2015');
+
+
+
+                                        });
+
+
+                                        Route::get('/2016', function(){
+
+                                            return view('2016');
+
+
+
+                                            });
 
 
 
 
 
+                                            Route::get('/2017', function(){
+
+                                                return view('2017');
 
 
 
+                                                });
+
+                                                Route::get('/2018', function(){
+
+                                                    return view('2018');
 
 
 
+                                                    });
+                                                    Route::get('/2019', function(){
+
+                                                        return view('2019');
+
+
+
+                                                        });
 
 
 

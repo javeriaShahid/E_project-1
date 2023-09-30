@@ -24,11 +24,14 @@
                                 <p>company</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Justin Bieber - Company.mp3">
+                                <source src="audio/Justin Bieber - Company.mp3">
                             </audio>
                         </div>
                     </div>
                 </div>
+
+
+                
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
@@ -39,14 +42,14 @@
                                 <p>life is worth living</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Justin Bieber - Life Is Worth Living (PURPOSE _ The Movement).mp3">
+                                <source src="audio/Justin Bieber - Life Is Worth Living (PURPOSE _ The Movement).mp3">
                             </audio>
                         </div>
                     </div>
                 </div>
 
- 
- 
+
+
 
         <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
@@ -58,14 +61,12 @@
                                 <p>no sense </p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Justin Bieber ft. Travi$ Scott - No Sense (PURPOSE_ The Movement) [Official Video].mp3">
+                                <source src="audio/Justin Bieber ft. Travi$ Scott - No Sense (PURPOSE_ The Movement) [Official Video].mp3">
                             </audio>
                         </div>
                     </div>
                 </div>
 
-            </div>
-        </div>
 
         <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
@@ -77,14 +78,13 @@
                                 <p>we are  </p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/We Are.mp3">
+                                <source src="audio/We Are.mp3">
                             </audio>
                         </div>
                     </div>
                 </div>
 
-            </div>
-        </div>
+
 
         <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
@@ -96,14 +96,13 @@
                                 <p>tu chaiye  </p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/'Tu Chahiye' FULL VIDEO Song - Atif Aslam Pritam  Bajrangi Bhaijaan  Salman Khan, Kareena Kapoor.mp3">
+                                <source src="audio/'Tu Chahiye' FULL VIDEO Song - Atif Aslam Pritam  Bajrangi Bhaijaan  Salman Khan, Kareena Kapoor.mp3">
                             </audio>
                         </div>
                     </div>
                 </div>
 
-            </div>
-        </div>
+
 
         <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
@@ -115,14 +114,12 @@
                                 <p>survivors</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Justin Bieber ft. Travi$ Scott - No Sense (PURPOSE_ The Movement) [Official Video].mp3">
+                                <source src="audio/Justin Bieber ft. Travi$ Scott - No Sense (PURPOSE_ The Movement) [Official Video].mp3">
                             </audio>
                         </div>
                     </div>
                 </div>
 
-            </div>
-        </div>
 
         <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
@@ -134,7 +131,7 @@
                                 <p>same old love</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="public/audio/Justin Bieber ft. Travi$ Scott - No Sense (PURPOSE_ The Movement) [Official Video].mp3">
+                                <source src="audio/Justin Bieber ft. Travi$ Scott - No Sense (PURPOSE_ The Movement) [Official Video].mp3">
                             </audio>
                         </div>
                     </div>
