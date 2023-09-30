@@ -3,10 +3,7 @@
 
     <!-- ##### Breadcumb Area Start ##### -->
     <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/breadcumb3.jpg);">
-        <div class="bradcumbContent">
-            <p></p>
-            <h2>Vidoes</h2>
-        </div>
+
     </section>
     <!-- ##### Breadcumb Area End ##### -->
     <section class="oneMusic-buy-now-area has-fluid bg-gray section-padding-100">
@@ -14,8 +11,8 @@
             <div class="row">
                 <div class="col-12">
                     <div class="section-heading style-2">
-                        <p>Top Songs</p>
-                        <h2>Music/Videos</h2>
+
+                        <h2>Video Songs</h2>
                     </div>
                 </div>
             </div>
@@ -27,13 +24,10 @@
                     <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
                         <div class="album-thumb">
                             <img src="img/bg-img/b1.jpg" alt="">
-                            <!-- Album Price -->
-                            <div class="album-price">
-                                <p>$0.90</p>
-                            </div>
+
                             <!-- Play Icon -->
                             <div class="play-icon">
-                                <a href="#" class="video--play--btn"><span class="icon-play-button"></span></a>
+                                <a href="https://www.youtube.com/watch?v=kyf-E2KhmcA" class="video--play--btn"><span class="icon-play-button"></span></a>
                             </div>
                         </div>
                         <div class="album-info">
@@ -95,10 +89,7 @@
                     <div class="single-album-area wow fadeInUp" data-wow-delay="500ms">
                         <div class="album-thumb">
                             <img src="img/bg-img/b1.jpg" alt="">
-                            <!-- Album Price -->
-                            <div class="album-price">
-                                <p>$0.90</p>
-                            </div>
+
                             <!-- Play Icon -->
                             <div class="play-icon">
                                 <a href="#" class="video--play--btn"><span class="icon-play-button"></span></a>
@@ -163,10 +154,7 @@
                     <div class="single-album-area wow fadeInUp" data-wow-delay="300ms">
                         <div class="album-thumb">
                             <img src="img/bg-img/b1.jpg" alt="">
-                            <!-- Album Price -->
-                            <div class="album-price">
-                                <p>$0.90</p>
-                            </div>
+
                             <!-- Play Icon -->
                             <div class="play-icon">
                                 <a href="#" class="video--play--btn"><span class="icon-play-button"></span></a>
@@ -289,7 +277,7 @@
             </div>
         </div>
     </section>
-    <!-- ##### Newsletter & Testimonials Area End ##### --> 
-  
+    <!-- ##### Newsletter & Testimonials Area End ##### -->
+
 
   @endsection
