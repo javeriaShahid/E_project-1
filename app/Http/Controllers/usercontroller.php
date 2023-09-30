@@ -39,14 +39,23 @@ return view('admin.home', compact('data'));
 }
 
 
-public function view($id){
-$data=Songs::find($id);
-return view('admin.home' ,compact ('data'));
+// public function view($id){
+// $data=Songs::find($id);
+// return view('index' , 'data => $asd');
 
 
 
-}
+// }
 
+public function delete( $id){
+
+     $destroy = Songs::findOrFail($id);
+
+     $destroy->delete();
+
+ return redirect()->back()->with('as' , 'Succesfully deleted');
+
+  }
 
 
 }

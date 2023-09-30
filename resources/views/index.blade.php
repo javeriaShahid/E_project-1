@@ -53,8 +53,8 @@
             <div class="row">
                 <div class="col-12">
                     <div class="section-heading style-2">
-                        <p>See what's new</p>
-                        <h2>Latest Albums</h2>
+
+                        <h2>Pakistani Artists</h2>
                     </div>
                 </div>
             </div>
@@ -155,7 +155,7 @@
                                 <p>Songs</p>
                             </div>
                         </div>
-                       
+
                         <!-- Single Album -->
                         <div class="single-album">
                             <img src="img/artist/Rahat Fateh Ali Khan 1.jpg" alt="">
@@ -514,49 +514,54 @@
                 <!-- ***** New Hits Songs ***** -->
                 <div class="col-12 col-lg-4">
                     <div class="new-hits-area mb-100">
-                        <div class="section-heading text-left mb-50 wow fadeInUp" data-wow-delay="50ms">
 
-                            <h2>New Pakistani Hits</h2>
+
+                             <div class="section-heading text-left mb-50 wow fadeInUp" data-wow-delay="50ms">
+
+
+
+                            <h2>Admin Added</h2>
                         </div>
 
                         <!-- Single Top Item -->
                         <div class="single-new-item d-flex align-items-center justify-content-between wow fadeInUp" data-wow-delay="100ms">
                             <div class="first-part d-flex align-items-center">
-                                <div class="thumbnail">
-                                    <img src="img/bg-img/wt7.jpg" alt="">
-                                </div>
+
                                 <div class="content-">
-                                    <h6>Sam Smith</h6>
-                                    <p>Underground</p>
+
+                                <h6></h6>
+                                    <h6></h6>
+                                    <p></p>
                                 </div>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/dummy-audio.mp3">
+                                <source src="/audio/">
                             </audio>
+
+
                         </div>
 
                         <!-- Single Top Item -->
                         <div class="single-new-item d-flex align-items-center justify-content-between wow fadeInUp" data-wow-delay="150ms">
                             <div class="first-part d-flex align-items-center">
-                                <div class="thumbnail">
-                                    <img src="img/bg-img/wt8.jpg" alt="">
-                                </div>
+
                                 <div class="content-">
-                                    <h6>Power Play</h6>
-                                    <p>In my mind</p>
+
+                                        <h6></h6>
+                                    <h6></h6>
+                                    <p></p>
                                 </div>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/dummy-audio.mp3">
+                                <source src="/audio/">
                             </audio>
+
                         </div>
 
                         <!-- Single Top Item -->
                         <div class="single-new-item d-flex align-items-center justify-content-between wow fadeInUp" data-wow-delay="200ms">
                             <div class="first-part d-flex align-items-center">
-                                <div class="thumbnail">
-                                    <img src="img/bg-img/wt9.jpg" alt="">
-                                </div>
+
                                 <div class="content-">
                                     <h6>Cristinne Smith</h6>
                                     <p>My Music</p>
@@ -570,9 +575,7 @@
                         <!-- Single Top Item -->
                         <div class="single-new-item d-flex align-items-center justify-content-between wow fadeInUp" data-wow-delay="250ms">
                             <div class="first-part d-flex align-items-center">
-                                <div class="thumbnail">
-                                    <img src="img/bg-img/wt10.jpg" alt="">
-                                </div>
+
                                 <div class="content-">
                                     <h6>The Music Band</h6>
                                     <p>Underground</p>
@@ -586,9 +589,7 @@
                         <!-- Single Top Item -->
                         <div class="single-new-item d-flex align-items-center justify-content-between wow fadeInUp" data-wow-delay="300ms">
                             <div class="first-part d-flex align-items-center">
-                                <div class="thumbnail">
-                                    <img src="img/bg-img/wt11.jpg" alt="">
-                                </div>
+
                                 <div class="content-">
                                     <h6>Creative Lyrics</h6>
                                     <p>Songs and stuff</p>
@@ -602,9 +603,7 @@
                         <!-- Single Top Item -->
                         <div class="single-new-item d-flex align-items-center justify-content-between wow fadeInUp" data-wow-delay="350ms">
                             <div class="first-part d-flex align-items-center">
-                                <div class="thumbnail">
-                                    <img src="img/bg-img/wt12.jpg" alt="">
-                                </div>
+
                                 <div class="content-">
                                     <h6>The Culture</h6>
                                     <p>Pop Songs</p>
@@ -615,7 +614,9 @@
                             </audio>
                         </div>
                     </div>
+
                 </div>
+
 
                 <!-- ***** Popular Artists ***** -->
                 <div class="col-12 col-lg-4">
@@ -628,70 +629,87 @@
                         <!-- Single Artist -->
                         <div class="single-artists d-flex align-items-center wow fadeInUp" data-wow-delay="100ms">
                             <div class="thumbnail">
-                                <img src="img/bg-img/pa1.jpg" alt="">
+                                <a href="/atif">
+
+                                <img src="img/artist/atif 2.jpg" alt="">
+                            </a>
                             </div>
                             <div class="content-">
+                                <a href="/atif">
                                 <p>Atif Aslam</p>
+                            </a>
                             </div>
                         </div>
 
                         <!-- Single Artist -->
                         <div class="single-artists d-flex align-items-center wow fadeInUp" data-wow-delay="150ms">
                             <div class="thumbnail">
-                                <img src="img/bg-img/pa2.jpg" alt="">
+                                <a href="/asim">
+                                <img src="img/artist/Asim Azhar 4.jpg" alt="">
+                            </a>
                             </div>
                             <div class="content-">
+                                <a href="/asim">
                                 <p>Asim Azhar</p>
+                            </a>
                             </div>
                         </div>
 
                         <!-- Single Artist -->
                         <div class="single-artists d-flex align-items-center wow fadeInUp" data-wow-delay="200ms">
                             <div class="thumbnail">
-                                <img src="img/bg-img/pa3.jpg" alt="">
-                            </div>
+                                <a href="/farhan">
+                                    <img src="img/artist/farhan saeed 8.webp" alt="">
+                                </a>
+                                </div>
                             <div class="content-">
+                                <a href="/farhan">
                                 <p>Farhan Saeed</p>
+                            </a>
                             </div>
                         </div>
 
                         <!-- Single Artist -->
                         <div class="single-artists d-flex align-items-center wow fadeInUp" data-wow-delay="250ms">
                             <div class="thumbnail">
-                                <img src="img/bg-img/pa4.jpg" alt="">
-                            </div>
+                                <a href="/rahat">
+                                    <img src="img/artist/Rahat Fateh Ali Khan 1.jpg" alt="">
+                                </a>
+                                </div>
                             <div class="content-">
+                                <a href="/rahat">
                                 <p>Rahat Fateh Ali Khan</p>
+                            </a>
                             </div>
                         </div>
 
-                        <!-- Single Artist -->
-                        <div class="single-artists d-flex align-items-center wow fadeInUp" data-wow-delay="300ms">
-                            <div class="thumbnail">
-                                <img src="img/bg-img/pa5.jpg" alt="">
-                            </div>
-                            <div class="content-">
-                                <p>Bilal Saeed</p>
-                            </div>
-                        </div>
+
 
                         <!-- Single Artist -->
                         <div class="single-artists d-flex align-items-center wow fadeInUp" data-wow-delay="350ms">
                             <div class="thumbnail">
-                                <img src="img/bg-img/pa6.jpg" alt="">
+                                <a href="/falak">
+                                <img src="img/artist/falak shabir 6.jpg" alt="">
+                            </a>
                             </div>
                             <div class="content-">
+                                <a href="/falak">
                                 <p>Falak Shabbir</p>
+                                </a>
                             </div>
                         </div>
 
                         <!-- Single Artist -->
                         <div class="single-artists d-flex align-items-center wow fadeInUp" data-wow-delay="400ms">
                             <div class="thumbnail">
-                                <img src="img/bg-img/pa7.jpg" alt="">
+                                <a href="/ali">
+                                <img src="img/artist/ali zafar 4.jpg" alt="">
+                            </a>
                             </div>
                             <div class="content-">
+                                <a href="/ali">
                                 <p>Ali Zafar</p>
+                            </a>
                             </div>
                         </div>
 

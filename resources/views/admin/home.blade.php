@@ -122,7 +122,8 @@
 
 
 </div>
-<div class="bg-gray-200 bg-opacity-25 grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 p-6 lg:p-8">
+<div class="p-6 lg:p-8 bg-black border-b border-gray-200">
+<div class="bg-gray-200 bg-opacity-25 grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 p-6 lg:p-8 align-items-center">
 <h1 class="text-center "><b>Add Songs</b></h1>
 <br>
 <form action="{{url('upload')}}" method="POST" class="form-group" enctype="multipart/form-data" >
@@ -133,10 +134,11 @@
               <input type="text" class="form-control" name="inform" placeholder="Information">
               <input type="file" class="form-control" name="file">
 
-              <input type="submit" class="btn btn-primary">
+              <input type="submit" class="btn btn-primary text-dark">
 
 </form>
 
+</div>
 </div>
 @if(session('us'))
 <div class="alert alert-primary" role="alert">
@@ -153,6 +155,7 @@
     <th>Name</th>
     <th>Information</th>
     <th>File</th>
+    <th>Delete</th>
 </tr>
 
 @foreach($data as $data)
@@ -160,14 +163,19 @@
 <tr>
 <td>{{$data->name}}</td>
 <td>{{$data->information}}</td>
-<td><a href="{{url('/admin',$data->id)}}">View</a></td>
+<td><a href="{{url('/',$data->id)}}" type="button" class="btn btn-success btn-sm text-dark">View</a></td>
+<td> <a href="/delete/{{$data->id}}" type="button"  class="btn btn-danger btn-sm text-dark">Delete</a></td>
 </tr>
 
 @endforeach
 </table>
-
-
-<iframe src="/audio/{{$data->file}}"></iframe>
+@if(session('as'))
+<div class="alert alert-primary" role="alert">
+{{session('as')}}
+</div>
+@endif
+{{--
+<iframe src="/audio/{{$data->file}}"></iframe> --}}
             </main>
         </div>
 
