@@ -202,7 +202,34 @@ Route::get('/contact', function(){
 
                                                         });
 
+                                                        Route::get('/2020', function(){
 
+                                                            return view('2020');
+
+
+
+                                                            });
+                                                            Route::get('/2021', function(){
+
+                                                                return view('2021');
+
+
+
+                                                                });
+                                                                Route::get('/2022', function(){
+
+                                                                    return view('2022');
+
+
+
+                                                                    });
+                                                                    Route::get('/2023', function(){
+
+                                                                        return view('2023');
+
+
+
+                                                                        });
 
 
 Route::middleware([
