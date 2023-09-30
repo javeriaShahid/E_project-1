@@ -128,7 +128,7 @@
                         <div class="single-album">
                             <img src="img/artist/falak shabir 2.jpg" alt="">
                             <div class="album-info">
-                                <a href="#">
+                                <a href="/falak">
                                     <h5>Falak Shabbir</h5>
                                 </a>
                                 <p>Songs</p>
@@ -136,49 +136,31 @@
                         </div>
    <!-- Single Album -->
                         <div class="single-album">
-                            <img src="img/artist/" alt="">
+                            <img src="img/artist/young 1.jpg" alt="">
                             <div class="album-info">
-                                <a href="#">
+                                <a href="/young">
                                     <h5>Young Stunners</h5>
                                 </a>
                                 <p>Songs</p>
                             </div>
                         </div>
-                          <!-- Single Album -->
-                        <div class="single-album">
-                            <img src="img/artist/" alt="">
-                            <div class="album-info">
-                                <a href="#">
-                                    <h5>Selena Gomez</h5>
-                                </a>
-                                <p>Songs</p>
-                            </div>
-                        </div>
+
                                <!-- Single Album -->
                          <div class="single-album">
-                            <img src="img/artist/" alt="">
+                            <img src="img/artist/hadiqakiani.jpg" alt="">
                             <div class="album-info">
-                                <a href="#">
+                                <a href="/hadiqa">
                                     <h5>Hadiqa Kiani</h5>
                                 </a>
                                 <p>Songs</p>
                             </div>
                         </div>
-                           <!-- Single Album -->
-                        <div class="single-album">
-                            <img src="img/artist/" alt="">
-                            <div class="album-info">
-                                <a href="#">
-                                    <h5>Billie Elish</h5>
-                                </a>
-                                <p>Songs</p>
-                            </div>
-                        </div>
+                       
                         <!-- Single Album -->
                         <div class="single-album">
                             <img src="img/artist/Rahat Fateh Ali Khan 1.jpg" alt="">
                             <div class="album-info">
-                                <a href="#">
+                                <a href="/rahat">
                                     <h5>Rahat Fateh Ali Khan</h5>
                                 </a>
                                 <p>Songs</p>
@@ -198,7 +180,7 @@
                 <div class="col-12">
                     <div class="section-heading style-2">
                         <p>Top Songs</p>
-                        <h2>Music/Videos</h2>
+                        <h2>Videos</h2>
                     </div>
                 </div>
             </div>
