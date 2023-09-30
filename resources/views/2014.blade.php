@@ -24,7 +24,7 @@
                                 <p>Nakhriley</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Habibi (Official Video) _ New Song 2022.mp3">
+                                <source src="audio/Nakhriley - Full Song  Kill Dil  Ranveer Singh  Ali Zafar  Parineeti Chopra  Shankar-Ehsaan-Loy.mp3">
                             </audio>
                         </div>
                     </div>

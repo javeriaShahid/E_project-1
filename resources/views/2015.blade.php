@@ -114,7 +114,7 @@
                                 <p>survivors</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Justin Bieber ft. Travi$ Scott - No Sense (PURPOSE_ The Movement) [Official Video].mp3">
+                                <source src="audio/Survivors.mp3">
                             </audio>
                         </div>
                     </div>
@@ -131,7 +131,7 @@
                                 <p>same old love</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Justin Bieber ft. Travi$ Scott - No Sense (PURPOSE_ The Movement) [Official Video].mp3">
+                                <source src="audio/Selena Gomez - Same Old Love.mp3>
                             </audio>
                         </div>
                     </div>
