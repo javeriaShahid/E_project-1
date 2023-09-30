@@ -23,14 +23,11 @@ Route::get('/admin',[homecontroller::class,'admin_panel']);
 // Route::post('/edit/{id}', [homecontroller::class, 'edit'])->name('update');
 Route::post('/upload',[usercontroller::class,'store']);
 Route::get('/admin',[usercontroller::class,'show']);
-Route::get('//{is}',[usercontroller::class,'view']);
+// Route::get('//{is}',[usercontroller::class,'view']);
 Route::get('/delete/{id}',[usercontroller::class,'delete'])->name('delete');
 
 
 
-// Route::get('/welcome', function () {
-//     return view('welcome');
-// });
 Route::get('/', function(){
 
 return view('index');
@@ -55,7 +52,7 @@ Route::get('/contact', function(){
 
  });
 
- 
+
  Route::get('/videos', function(){
  return view('blog');
   });
@@ -240,6 +237,13 @@ return view('asim');
 
 
                                                                         });
+                                                                        Route::get('/urdu', function(){
+
+                                                                            return view('urdu');
+
+
+
+                                                                            });
 
 
 Route::middleware([
@@ -253,16 +257,3 @@ Route::middleware([
 });
 
 
-// Route::controller(usercontroller::class)->group(function(){
-
-//     Route::get('/index','index');
-//     Route::get('/contact','contact');
-//     Route::get('/blog','blog');
-//     Route::get('/event','event');
-//     // Route::get('/login','login');
-//     Route::get('/album','album');
-
-
-
-
-//     });

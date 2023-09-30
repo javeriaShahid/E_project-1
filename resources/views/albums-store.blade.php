@@ -314,13 +314,24 @@
                         </div>
                     </div>
 
+     <!-- Single Album -->
+     <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item e">
+        <div class="single-album">
+            <img src="img/bg-img/a12.jpg" alt="">
+            <div class="album-info">
+                <a href="/urdu">
+                    <h5>Urdu</h5>
+                </a>
+                <p>Songs</p>
+            </div>
+        </div>
+    </div>
 
 
 
 
 
 
-                    
             </div>
         </div>
     </section>
