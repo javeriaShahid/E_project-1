@@ -19,7 +19,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/selena5.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -36,7 +36,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/selena 1.jpg" alt="">
+                            <img src="img/artist/selena5.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -53,7 +53,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/selena5.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -61,23 +61,6 @@
                             </div>
                             <audio preload="auto" controls>
                                 <source src="audio/Selena Gomez - Right My Wrongs (ft. Post Malone).mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <img src="img/artist/selena 1.jpg" alt="">
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>Fingers</p>
-                            </div>
-                            <audio preload="auto" controls>
-                                <source src="public/audio/Main Rang Sharbaton Ka - Phata Poster Nikhla Hero I Shahid,Ileana  Atif Aslam & Chinmayi  Pritam.mp3">
                             </audio>
                         </div>
                     </div>
@@ -168,39 +151,6 @@
                     </div>
                 </div>
 
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <img src="img/artist/selena 1.jpg" alt="">
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>Love Like This</p>
-                            </div>
-                            <audio preload="auto" controls>
-                                <source src="public/audio/Dil Meri Na Sune Song Video - Genius  Utkarsh, Ishita  Atif Aslam  Himesh Reshammiya  Manoj.mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <img src="img/artist/selena5.jpg" alt="">
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>Back To Life</p>
-                            </div>
-                            <audio preload="auto" controls>
-                                <source src="public/audio/Main Rang Sharbaton Ka - Phata Poster Nikhla Hero I Shahid,Ileana  Atif Aslam & Chinmayi  Pritam.mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
 
             </div>
         </div>

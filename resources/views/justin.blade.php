@@ -117,28 +117,11 @@
                     </div>
                 </div>
 
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>Friends</p>
-                            </div>
-                            <audio preload="auto" controls>
-                                <source src="audio/Justin Bieber & BloodPop - Friends (Official Music Video).mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
-
                                 <!-- Single Song Area -->
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -155,7 +138,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -172,7 +155,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -189,7 +172,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -206,7 +189,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
