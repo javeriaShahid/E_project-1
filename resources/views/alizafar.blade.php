@@ -1,7 +1,7 @@
 @extends("components.header")
 @section("new")
     <!-- ##### Breadcumb Area Start ##### -->
-    <section class="breadcumb-area bg-img-3 bg-overlay">
+    <section class="breadcumb-area bg-img-19 bg-overlay">
         <div class="bradcumbContent">
             <p>Songs</p>
             <h2>Ali Zafar</h2>
@@ -19,7 +19,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 7.webp" alt="">
+                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -36,14 +36,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 8.jpg" alt="">
+                            <img src="img/artist/ali zafar 8.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Chand Mahiya</p>
+                                <p>Jhoom</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Chand Mahiya (Official Music Video).mp3">
+                                <source src="audio/Ali Zafar  Jhoom (R&B mix)  Lyrical Video.mp3">
                             </audio>
                         </div>
                     </div>
@@ -53,14 +53,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.jpg" alt="">
+                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Dard</p>
+                                <p>Laila O Laila</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Dard (Official Video) Durefishan Saleem _ Kunaal Vermaa.mp3">
+                                <source src="audio/Laila O Laila - Ali Zafar ft Urooj Fatima  Lightingale Productions.mp3">
                             </audio>
                         </div>
                     </div>
@@ -70,14 +70,48 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar 5.webp" alt="">
+                            <img src="img/artist/ali zafar 8.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Habibi</p>
+                                <p>Ting Rang</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Habibi (Official Video) _ New Song 2022.mp3">
+                                <source src="audio/Ting Rang Best Video - London Paris New YorkAli ZafarAditi Rao Hydari.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Allay</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Allay (Munja Mar Wara)  Ali Zafar ft. Urooj Fatima & Abid Brohi  Lightingale Records.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/ali zafar 8.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>London Paris New York</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/London, Paris, New York Lyric Video - Title TrackSunidhi ChauhanSunidhi Chauhan.mp3">
                             </audio>
                         </div>
                     </div>

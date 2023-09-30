@@ -63,6 +63,9 @@
                     </div>
                 </div>
 
+
+
+
                 <!-- Single Event Area -->
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-event-area mb-30">
@@ -75,10 +78,7 @@
                             <a href="/rahat" class="btn see-more-btn">Songs</a>
                         </div>
                     </div>
-                </div>
-
-
-
+                </div> 
 
                 <!-- Single Event Area -->
                 <div class="col-12 col-md-6 col-lg-4">
@@ -168,22 +168,7 @@
                 </div>
 
 
-   <!-- Single Event Area -->
-   <div class="col-12 col-md-6 col-lg-4">
-    <div class="single-event-area mb-30">
-        <div class="event-thumbnail">
-            <a href="/selena">
-                 <img src="img/artist/selena3.webp" alt="">
-            </a>
 
-        </div>
-        <div class="event-text">
-            <h4>Selena Gomez</h4>
-
-            <a href="/selena" class="btn see-more-btn">Songs</a>
-        </div>
-    </div>
-</div>
 
 
        <!-- Single Event Area -->
@@ -202,6 +187,24 @@
             </div>
         </div>
     </div>
+
+   <!-- Single Event Area -->
+   <div class="col-12 col-md-6 col-lg-4">
+    <div class="single-event-area mb-30">
+        <div class="event-thumbnail">
+            <a href="/selena">
+                 <img src="img/artist/selena13.jpg" alt="">
+            </a>
+
+        </div>
+        <div class="event-text">
+            <h4>Selena Gomez</h4>
+
+            <a href="/selena" class="btn see-more-btn">Songs</a>
+        </div>
+    </div>
+</div>
+
  <!-- Single Event Area -->
  <div class="col-12 col-md-6 col-lg-4">
     <div class="single-event-area mb-30">

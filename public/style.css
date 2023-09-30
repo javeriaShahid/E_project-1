@@ -271,21 +271,83 @@ img {
     background-size: cover;
     background-repeat: no-repeat; }
 
+    .bg-img-18{
+      background: url(./img/artist/Ali\ Zafar\ 1.jpg);
+      background-position: center center ;
+      background-size: cover;
+      background-repeat: no-repeat; 
+      background-position: fixed; }
+
+      .bg-img-19{
+        background: url(./img/artist/hadiqa8.jpeg);
+        background-position: center center ;
+        background-size: cover;
+        background-repeat: no-repeat; 
+        background-position: fixed; }
+
+        .bg-img-20{
+          background: url(./img/artist/falakk1.jpg);
+          background-position: center center ;
+          background-size: cover;
+          background-repeat: no-repeat; 
+          background-position: fixed; }
+
+          .bg-img-28{
+            background: url(./img/artist/farhan1.png);
+            background-position: center center ;
+            background-size: cover;
+            background-repeat: no-repeat; 
+            background-position: fixed; }
+
+            .bg-img-29{
+              background: url(./img/artist/youngg4.jpg);
+              background-position: center center ;
+              background-size: cover;
+              background-repeat: no-repeat; 
+              background-position: fixed; }
+
+              .bg-img-18{
+                background: url(./img/artist/bohemiaa2.jpg);
+                background-position: center center ;
+                background-size: cover;
+                background-repeat: no-repeat; 
+                background-position: fixed; }
+
+                .bg-img-19{
+                  background: url(./img/artist/justinb6.jpg);
+                  background-position: center center ;
+                  background-size: cover;
+                  background-repeat: no-repeat; 
+                  background-position: fixed; }
 
   .bg-img-5{
     background: url(./img/artist/Rahat\ Fateh\ Ali\ Khan\ 2.jpg);
     background-position: center center ;
     background-size: cover;
-    background-repeat: no-repeat;
-  background-position: fixed; }
-  .bg-img-6{
-    background: url(./img/artist/farhan\ saeed\ 2.jpeg);
+    background-repeat: no-repeat; }
+
+  .bg-img-25{
+    background: url(./img/artist/selena5.jpg);
     background-position: center center ;
     background-size: cover;
     background-repeat: no-repeat;
   background-position: fixed; }
 
-  .bg-img{
+  .bg-img-23{
+    background: url(./img/artist/billliee10.jpg);
+    background-position: center center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+
+  .bg-img-6{
+    background: url(./img/artist/Farhan\ Saeed\ 2.jpg);
+    background-position: center center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-position: fixed; }
+
+  .bg-img-19{
     background: url(./img/artist/ali\ zafar\ 8.jpg);
     background-position: center center ;
     background-size: cover;

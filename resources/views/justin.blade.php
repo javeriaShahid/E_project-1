@@ -1,7 +1,7 @@
 @extends("components.header")
 @section("new")
     <!-- ##### Breadcumb Area Start ##### -->
-    <section class="breadcumb-area bg-img-3 bg-overlay">
+    <section class="breadcumb-area bg-img-19 bg-overlay">
         <div class="bradcumbContent">
             <p>Songs</p>
             <h2>Justin Bieber</h2>
@@ -117,28 +117,11 @@
                     </div>
                 </div>
 
-                <!-- Single Song Area -->
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>Friends</p>
-                            </div>
-                            <audio preload="auto" controls>
-                                <source src="audio/Justin Bieber & BloodPop - Friends (Official Music Video).mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
-
                                 <!-- Single Song Area -->
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -155,7 +138,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -172,7 +155,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -189,7 +172,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -206,7 +189,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
