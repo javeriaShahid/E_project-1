@@ -23,12 +23,11 @@
                 <div class="col-12 col-sm-6 col-md-4 col-lg-2">
                     <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
                         <div class="album-thumb">
-                            <img src="img/bg-img/b1.jpg" alt="">
 
-                            <!-- Play Icon -->
-                            <div class="play-icon">
-                                <a href="https://www.youtube.com/watch?v=kyf-E2KhmcA" class="video--play--btn"><span class="icon-play-button"></span></a>
-                            </div>
+<iframe width="200" height="200"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+                        </div>
                         </div>
                         <div class="album-info">
                             <a href="#">
@@ -39,6 +38,28 @@
                     </div>
                 </div>
 
+
+
+                     <!-- Single Album Area -->
+                     <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                        <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
+                            <div class="album-thumb">
+
+                                <iframe width="420" height="315"
+    src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    </iframe>
+                            </div>
+                            </div>
+                            <div class="album-info">
+                                <a href="#">
+                                    <h5>Garage Band</h5>
+                                </a>
+                                <p>Radio Station</p>
+                            </div>
+                        </div>
+                    </div>
+
+{{--
                 <!-- Single Album Area -->
                 <div class="col-12 col-sm-6 col-md-4 col-lg-2">
                     <div class="single-album-area wow fadeInUp" data-wow-delay="200ms">
@@ -212,8 +233,8 @@
                             <p>Buble Gum</p>
                         </div>
                     </div>
-                </div>
-
+                </div> --}}
+        </div>
             </div>
 
 
