@@ -340,9 +340,35 @@
         </div>
     </div>
 
+ <!-- Single Album -->
+ <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item b">
+    <div class="single-album">
+        <img src="img/bg-img/a12.jpg" alt="">
+        <div class="album-info">
+            <a href="#">
+                <h5>Purpose</h5>
+            </a>
+            <p>Songs</p>
+        </div>
+    </div>
+</div>
 
 
 
+
+
+
+<div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item c">
+    <div class="single-album">
+        <img src="img/bg-img/a12.jpg" alt="">
+        <div class="album-info">
+            <a href="/english">
+                <h5>POP</h5>
+            </a>
+            <p>Songs</p>
+        </div>
+    </div>
+</div>
             </div>
         </div>
     </section>
