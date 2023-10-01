@@ -17,14 +17,32 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
+                            <img src="img/artist/justinb2.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Tum jo aye zindagi mein</p>
+                                <p>We Are</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Tum Jo Aay Zindagi Me _ ONCE UPON A TIME IN MUMBAI _ Rahat Fateh Ali Khan _ Trending Song.mp3">
+                                <source src="audio/We Are.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/justinb2.jpeg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>No Sense</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Justin Bieber ft. Travi$ Scott - No Sense (PURPOSE_ The Movement) [Official Video].mp3">
                             </audio>
                         </div>
                     </div>
@@ -33,14 +51,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/youngg3.jpg" alt="">
+                            <img src="img/artist/justinb2.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Two tone</p>
+                                <p>life is worth living</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/TWO TONE - Young Stunners  Talha Anjum  Talhah Yunus  Prod. by Umair (Official Music Video).mp3">
+                                <source src="audio/Justin Bieber - Life Is Worth Living (PURPOSE _ The Movement).mp3">
                             </audio>
                         </div>
                     </div>
@@ -49,30 +67,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/youngg3.jpg" alt="">
+                            <img src="img/artist/justinb2.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Talk to me</p>
+                                <p>company</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/TALK TO ME - Young Stunners  Talha Anjum  Talhah Yunus  Prod. By Jokhay (Official Audio).mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar.jpg" alt="">
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>Dard</p>
-                            </div>
-                            <audio preload="auto" controls>
-                                <source src="audio/Asim Azhar - Chand Mahiya (Official Music Video).mp3">
+                                <source src="audio/Justin Bieber - Company.mp3">
                             </audio>
                         </div>
                     </div>
@@ -85,10 +87,10 @@
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Chand mahiya</p>
+                                <p>Survivors</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Asim Azhar - Chand Mahiya (Official Music Video).mp3">
+                                <source src="audio/Survivors.mp3">
                             </audio>
                         </div>
                     </div>
@@ -97,14 +99,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/youngg3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Aazma le</p>
+                                <p>Same Old Love</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/AAZMA LE - Young Stunners  Talha Anjum  Talhah Yunus ft. Bilal Ali (Official Music Video).mp3">
+                                <source src="audio/Selena Gomez - Same Old Love.mp3">
                             </audio>
                         </div>
                     </div>
@@ -113,14 +115,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Kesi Teri Khudgarzi</p>
+                                <p>Intermission</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Kaisi Teri Khudgharzi OST _ Without Dialogues _ Rahat Fateh Ali Khan _ Danish Taimoor _ ARY Digtial.mp3">
+                                <source src="audio/ZAYN - INTERMISSION_ fLoWer (Lyric Video).mp3">
                             </audio>
                         </div>
                     </div>
@@ -129,14 +131,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Qalandar</p>
+                                <p>WRONG</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Qalandar _ OST _ Rahat Fateh Ali Khan _ Har Pal Geo _ 7th Sky Entertainment.mp3">
+                                <source src="audio/Selena Gomez - Right My Wrongs (ft. Post Malone).mp3">
                             </audio>
                         </div>
                     </div>
@@ -145,14 +147,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Habibi</p>
+                                <p>TIO</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Asim Azhar - Habibi (Official Video) _ New Song 2022.mp3">
+                                <source src="audio/TiO  Selena Gomez.mp3">
                             </audio>
                         </div>
                     </div>
@@ -161,14 +163,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/youngg3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Dont mind</p>
+                                <p>ITS YOU</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/DONT MIND - Young Stunners  Talhah Yunus  Talha Anjum  Rap Demon (Official Audio).mp3">
+                                <source src="audio/Selena Gomez - My Dilemma (Music video).mp3">
                             </audio>
                         </div>
                     </div>
@@ -177,14 +179,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/youngg3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Gumaan</p>
+                                <p>Rear View</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/GUMAAN - Young Stunners  Talha Anjum  Talhah Yunus  Prod. By Jokhay (Official Music Video).mp3">
+                                <source src="audio/ZAYN - REaR VIeW ft. Selena.mp3">
                             </audio>
                         </div>
                     </div>
@@ -193,14 +195,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/youngg3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Karachi Chal</p>
+                                <p>Like I WOULD</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/KARACHI CHAL - Young Stunners  Talha Anjum  Talhah Yunus (Feat. YAS) Prod. By Momin.mp3">
+                                <source src="audio/Selena Gomez & The Scene - Love You Like A Love Song.mp3">
                             </audio>
                         </div>
                     </div>
@@ -209,14 +211,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/youngg3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Quarantine</p>
+                                <p>Good For You</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/QUARANTINE - Young Stunners  Talha Anjum x Talhah Yunus x KR$NA (Official Music Video).mp3">
+                                <source src="audio/Selena Gomez - Good For You.mp3">
                             </audio>
                         </div>
                     </div>
@@ -225,14 +227,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Jaag Soona Soona Lage</p>
+                                <p>Fetish</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Jag Soona Soona Lage [Full Song] - Om Shanti Om.mp3">
+                                <source src="audio/Selena Gomez  Fetish (Lyrics) ft. Gucci Mane.mp3">
                             </audio>
                         </div>
                     </div>
@@ -241,14 +243,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
+                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Dard Rukta Nahi</p>
+                                <p>Lovely</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Dard Rukta Nahi OST _ Rahat Fateh Ali Khan _ Rock Version _ Official 4K Video.mp3">
+                                <source src="audio/Billie Eilish, Khalid - lovely (Official Music Video).mp3">
                             </audio>
                         </div>
                     </div>
@@ -257,14 +259,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Mere Pass TUM ho</p>
+                                <p>Fingers</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Meray Paas Tum Ho _ OST _ Rahat Fateh Ali Khan _ ARY Digital Drama.mp3">
+                                <source src="audio/Selena Gomez - Ring (Official Lyrics).mp3">
                             </audio>
                         </div>
                     </div>
@@ -273,14 +275,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Koi Chand Rakh</p>
+                                <p>Good Years</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Koi Chand Rakh OST - Singer Rahat Fateh Ali Khan - Ayeza Khan - Pakistani Dramas OST.mp3">
+                                <source src="audio/Selena Gomez & The Scene - A Year Without Rain.mp3">
                             </audio>
                         </div>
                     </div>
@@ -289,14 +291,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Jo Tu Na Mila</p>
-                            </div>
+                                <p>Back To You</p>
+i                            </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Asim Azhar - Jo Tu Na Mila.mp3">
+                                <source src="audio/Selena Gomez - Back To You.mp3">
                             </audio>
                         </div>
                     </div>
@@ -305,14 +307,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/youngg3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Karachi Lingo</p>
+                                <p>Entertainer</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Karachi Lingo - Official Audio - Talha Anjum  Talhah Yunus.mp3">
+                                <source src="audio/Zayn feat. Selena Gomez - ENTERTAINER.mp3">
                             </audio>
                         </div>
                     </div>
@@ -321,14 +323,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/youngg3.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Asli Hai</p>
+                                <p>Let Me</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/ASLI HAI - Young Stunners  Talha Anjum  Talhah Yunus  #RealHai [Official Music Video].mp3">
+                                <source src="audio/Selena Gomez - Let Me Get Me (Official Lyrics).mp3">
                             </audio>
                         </div>
                     </div>
@@ -337,30 +339,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Asim Azhar.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>khuwaish</p>
+                                <p>Souvenir</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Khuwahish - Asim Azhar.mp3">
-                            </audio>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12">
-                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
-                        <div class="song-thumbnail">
-                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
-                        </div>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>Afreen Afreen</p>
-                            </div>
-                            <audio preload="auto" controls>
-                                <source src="audio/Coke Studio Season 9_ Afreen Afreen_ Rahat Fateh Ali Khan & Momina Mustehsan.mp3">
+                                <source src="audio/Selena Gomez - Souvenir (Official Video).mp3">
                             </audio>
                         </div>
                     </div>
@@ -368,19 +354,114 @@
                     <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Atif Aslam 2.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Tu Chaiye</p>
+                                <p>Cut You Off</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/'Tu Chahiye' FULL VIDEO Song - Atif Aslam Pritam  Bajrangi Bhaijaan  Salman Khan, Kareena Kapoor.mp3">
+                                <source src="audio/Selena Gomez - Cut You Off (Official Lyrics).mp3">
                             </audio>
                         </div>
                     </div>
                 </div>
 
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>People You Know</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Selena Gomez - People You Know (Official Lyrics).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Boyfriend</b></p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Selena Gomez - Boyfriend (Official Video).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Look At Her Now</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Selena Gomez - Look At Her Now (Official Music Video).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Lose you to love me</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Selena Gomez - Lose You To Love Me (Official Music Video).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>What was I made for</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Billie Eilish - What Was I Made For_ (Live from Lollapalooza Chicago 2023).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Love like this</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Selena Gomez & The Scene - Love You Like A Love Song.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
 
                 </div>
             </div>

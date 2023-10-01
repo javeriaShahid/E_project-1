@@ -32,7 +32,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a ">
                     <div class="single-album">
-                        <img src="img/artist/Atif 3.jpg" alt="">
+                        <img src="img/artist/atif 6.jpg" alt="">
                         <div class="album-info">
                             <a href="/atif">
                                 <h5>Atif Aslam</h5>
@@ -58,7 +58,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/artist/bohemia.jpg" alt="">
+                        <img src="img/artist/bohemiaa2.jpg" alt="">
                         <div class="album-info">
                             <a href="/bohemia">
                                 <h5>bohemia</h5>
@@ -123,7 +123,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/artist/hadiqakiani.jpg" alt="">
+                        <img src="img/artist/hadiqa8.jpeg" alt="">
                         <div class="album-info">
                             <a href="/hadiqa">
                                 <h5>hadiqa</h5>
@@ -162,7 +162,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/artist/Justin Beiber 4.webp" alt="">
+                        <img src="img/artist/justinb6.jpg" alt="">
                         <div class="album-info">
                             <a href="/justin">
                                 <h5>justin bieber</h5>
@@ -175,7 +175,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/artist/young stunners.jpg" alt="">
+                        <img src="img/artist/youngg3.jpg" alt="">
                         <div class="album-info">
                             <a href="/young">
                                 <h5>young stunners</h5>
@@ -188,7 +188,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/artist/billiee3.webp" alt="">
+                        <img src="img/artist/billiee 8.webp" alt="">
                         <div class="album-info">
                             <a href="/billie">
                                 <h5>billie</h5>
@@ -320,14 +320,25 @@
             <img src="img/bg-img/a12.jpg" alt="">
             <div class="album-info">
                 <a href="/urdu">
-                    <h5>Urdu</h5>
+                    <h5>URDU</h5>
                 </a>
                 <p>Songs</p>
             </div>
         </div>
     </div>
 
-
+ <!-- Single Album -->
+ <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item e">
+        <div class="single-album">
+            <img src="img/bg-img/a12.jpg" alt="">
+            <div class="album-info">
+                <a href="/english">
+                    <h5>ENGLISH</h5>
+                </a>
+                <p>Songs</p>
+            </div>
+        </div>
+    </div>
 
 
 

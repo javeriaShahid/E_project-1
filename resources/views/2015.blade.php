@@ -17,7 +17,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/justinb1.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -35,7 +35,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/justinb1.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -54,7 +54,7 @@
         <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/justinb1.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -71,7 +71,7 @@
         <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/justinb1.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -89,7 +89,7 @@
         <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Atif Aslam 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -107,7 +107,7 @@
         <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -124,14 +124,14 @@
         <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
                                 <p>same old love</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/Selena Gomez - Same Old Love.mp3>
+                                <source src="audio/Selena Gomez - Same Old Love.mp3">
                             </audio>
                         </div>
                     </div>

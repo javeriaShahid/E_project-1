@@ -17,7 +17,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Hadiqa 9.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -33,7 +33,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Hadiqa 9.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -49,14 +49,14 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/youngg3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
                                 <p>Dont mind</p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio/New Drama Serial  Kasa-e-Dil  OST  sung by Sahir Ali Bagga and Hadiqa Kiani  HAR PAL GEO.mp3">
+                                <source src="audio/DONT MIND - Young Stunners  Talhah Yunus  Talha Anjum  Rap Demon (Official Audio).mp3">
                             </audio>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/youngg3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -81,7 +81,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/youngg3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -97,7 +97,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/youngg3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -113,7 +113,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Asim Azhar.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -129,7 +129,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -144,7 +144,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -159,7 +159,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -174,7 +174,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -189,7 +189,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -204,7 +204,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/selena 1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -219,7 +219,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Billie 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -234,7 +234,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/falakk1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">

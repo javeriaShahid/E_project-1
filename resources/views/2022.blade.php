@@ -17,7 +17,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/bohemiaa1.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -33,7 +33,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/falakk1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -48,7 +48,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Asim Azhar.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -63,7 +63,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/falakk1.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -78,7 +78,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/bohemiaa1.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -93,7 +93,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/young3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -108,7 +108,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -123,7 +123,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Asim Azhar.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -138,7 +138,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -153,7 +153,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Rahat Fateh Ali Khan 3.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -168,7 +168,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/farhan2.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -183,7 +183,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Justin Beiber 2.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
@@ -213,7 +213,7 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/bohemiaa1.jpeg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
