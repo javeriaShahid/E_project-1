@@ -243,7 +243,15 @@ return view('asim');
 
 
 
+
                                                                             });
+                                                                            Route::get('/english', function(){
+
+                                                                                return view('english');
+
+
+
+                                                                                });
 
 
 Route::middleware([

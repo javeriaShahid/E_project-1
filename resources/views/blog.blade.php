@@ -24,19 +24,22 @@
                     <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
                         <div class="album-thumb">
 
+                            
 <iframe width="200" height="200"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+src="https://www.youtube.com/embed/kw4tT7SCmaY?si=qXvjqAY07PZKT9sN">
 </iframe>
+{{-- <iframe width="560" height="315" src="https://www.youtube.com/embed/_E_CpIjvoS4?si=vzHGm-Ay4c2MIxK-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> --}}
+
                         </div>
                         </div>
                         <div class="album-info">
                             <a href="#">
-                                <h5>Garage Band</h5>
+                                <h5>Kasa-e-Dil</h5>
                             </a>
-                            <p>Radio Station</p>
+                            <p>Hadiqa Kiani</p>
                         </div>
                     </div>
-                </div>
+
 
 
 
@@ -45,8 +48,8 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
                         <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
                             <div class="album-thumb">
 
-                                <iframe width="420" height="315"
-    src="https://www.youtube.com/embed/tgbNymZ7vqY">
+                                <iframe width="200" height="200"
+    src="https://www.youtube.com/watch?v=gyqwpHtCg_Y">
     </iframe>
                             </div>
                             </div>
