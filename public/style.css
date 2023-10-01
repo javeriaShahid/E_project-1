@@ -275,49 +275,49 @@ img {
       background: url(./img/artist/Ali\ Zafar\ 1.jpg);
       background-position: center center ;
       background-size: cover;
-      background-repeat: no-repeat; 
+      background-repeat: no-repeat;
       background-position: fixed; }
 
       .bg-img-100{
         background: url(./img/artist/hadiqa8.jpeg);
         background-position: center center ;
         background-size: cover;
-        background-repeat: no-repeat; 
+        background-repeat: no-repeat;
         background-position: fixed; }
 
         .bg-img-20{
           background: url(./img/artist/falakk1.jpg);
           background-position: center center ;
           background-size: cover;
-          background-repeat: no-repeat; 
+          background-repeat: no-repeat;
           background-position: fixed; }
 
           .bg-img-28{
             background: url(./img/artist/farhan1.png);
             background-position: center center ;
             background-size: cover;
-            background-repeat: no-repeat; 
+            background-repeat: no-repeat;
             background-position: fixed; }
 
             .bg-img-29{
               background: url(./img/artist/youngg4.jpg);
               background-position: center center ;
               background-size: cover;
-              background-repeat: no-repeat; 
+              background-repeat: no-repeat;
               background-position: fixed; }
 
               .bg-img-18{
                 background: url(./img/artist/bohemiaa2.jpg);
                 background-position: center center ;
                 background-size: cover;
-                background-repeat: no-repeat; 
+                background-repeat: no-repeat;
                 background-position: fixed; }
 
                 .bg-img-19{
                   background: url(./img/artist/justinb6.jpg);
                   background-position: center center ;
                   background-size: cover;
-                  background-repeat: no-repeat; 
+                  background-repeat: no-repeat;
                   background-position: fixed; }
 
   .bg-img-5{
@@ -347,7 +347,7 @@ img {
     background-repeat: no-repeat;
   background-position: fixed; }
 
-  .bg-img-19{
+  .bg-img{
     background: url(./img/artist/ali\ zafar\ 8.jpg);
     background-position: center center ;
     background-size: cover;

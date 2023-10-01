@@ -4,7 +4,7 @@
  <section class="breadcumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/breadcumb3.jpg);">
     <div class="bradcumbContent">
         <p>Year</p>
-        <h2>2014</h2>
+        <h2>2017</h2>
     </div>
 </section>
 <!-- ##### Breadcumb Area End ##### -->
@@ -17,19 +17,146 @@
                 <div class="col-12">
                     <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
                         <div class="song-thumbnail">
-                            <img src="img/artist/Ali Zafar 2.jpg" alt="">
+                            <img src="img/artist/Asim Azhar.jpg" alt="">
                         </div>
                         <div class="song-play-area">
                             <div class="song-name">
-                                <p>Nakhriley</p>
+                                <p>Khuwaish </p>
                             </div>
                             <audio preload="auto" controls>
-                                <source src="audio\Asim Azhar - Habibi (Official Video) _ New Song 2022.mp3">
+                                <source src="audio/Khuwahish - Asim Azhar.mp3">
                             </audio>
                         </div>
                     </div>
                 </div>
 
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Justin Beiber.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Friends</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Justin Bieber & BloodPop - Friends (Official Music Video).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/farhan2.jpeg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Thori der </p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Farhan Saeed _ Tu Thodi Der ( Original Version ).mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Atif Aslam 3.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Dil diyan gallan</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Dil Diyan Gallan Song  Tiger Zinda Hai  Salman Khan, Katrina Kaif  Atif Aslam  Vishal & Shekhar.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/Atif Aslam 3.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Main agar</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Main Agar Lyric Video - TubelightSalman Khan, Sohail KhanPritamAtif AslamKabir Khan.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/youngg3.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Asli hai </p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/ASLI HAI - Young Stunners  Talha Anjum  Talhah Yunus  #RealHai [Official Music Video].mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/youngg3.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Karachi lingo</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Karachi Lingo - Official Audio - Talha Anjum  Talhah Yunus.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Good for you </p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Selena Gomez - Good For You.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/artist/selena 1.jpg" alt="">
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Fetish</p>
+                            </div>
+                            <audio preload="auto" controls>
+                                <source src="audio/Selena Gomez  Fetish (Lyrics) ft. Gucci Mane.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

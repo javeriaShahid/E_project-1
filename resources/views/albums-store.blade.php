@@ -32,7 +32,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a ">
                     <div class="single-album">
-                        <img src="img/artist/Atif 3.jpg" alt="">
+                        <img src="img/artist/atif 6.jpg" alt="">
                         <div class="album-info">
                             <a href="/atif">
                                 <h5>Atif Aslam</h5>
@@ -45,7 +45,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/bg-img/a2.jpg" alt="">
+                        <img src="img/artist/ali zafar 2.webp" alt="">
                         <div class="album-info">
                             <a href="/ali">
                                 <h5>Ali Zafar</h5>
@@ -58,7 +58,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/bg-img/a3.jpg" alt="">
+                        <img src="img/artist/bohemiaa2.jpg" alt="">
                         <div class="album-info">
                             <a href="/bohemia">
                                 <h5>bohemia</h5>
@@ -71,7 +71,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/bg-img/a4.jpg" alt="">
+                        <img src="img/artist/Asim Azhar 6.jpg" alt="">
                         <div class="album-info">
                             <a href="/asim">
                                 <h5>asim azhar</h5>
@@ -84,7 +84,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/bg-img/a5.jpg" alt="">
+                        <img src="img/artist/bilal saeed 1.jpg" alt="">
                         <div class="album-info">
                             <a href="/bilal">
                                 <h5>bilal saeed</h5>
@@ -97,7 +97,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/bg-img/a6.jpg" alt="">
+                        <img src="img/artist/Farhan Saeed 1.jpg" alt="">
                         <div class="album-info">
                             <a href="/farhan">
                                 <h5>farhan saeed</h5>
@@ -110,7 +110,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/bg-img/a7.jpg" alt="">
+                        <img src="img/artist/falak shabir 5.jpg" alt="">
                         <div class="album-info">
                             <a href="/falak">
                                 <h5>Falak shabbir</h5>
@@ -123,7 +123,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/bg-img/a8.jpg" alt="">
+                        <img src="img/artist/hadiqa8.jpeg" alt="">
                         <div class="album-info">
                             <a href="/hadiqa">
                                 <h5>hadiqa</h5>
@@ -136,7 +136,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/bg-img/a9.jpg" alt="">
+                        <img src="img/artist/selena5.jpg" alt="">
                         <div class="album-info">
                             <a href="/selena">
                                 <h5>selena gomez</h5>
@@ -149,7 +149,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/bg-img/a10.jpg" alt="">
+                        <img src="img/artist/Rahat Fateh Ali Khan 6.jpg" alt="">
                         <div class="album-info">
                             <a href="/rahat">
                                 <h5>rahat fateh ali khan</h5>
@@ -162,7 +162,7 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/bg-img/a11.jpg" alt="">
+                        <img src="img/artist/justinb6.jpg" alt="">
                         <div class="album-info">
                             <a href="/justin">
                                 <h5>justin bieber</h5>
@@ -175,10 +175,23 @@
                 <!-- Single Album -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
                     <div class="single-album">
-                        <img src="img/bg-img/a12.jpg" alt="">
+                        <img src="img/artist/youngg3.jpg" alt="">
                         <div class="album-info">
                             <a href="/young">
-                                <h5>young</h5>
+                                <h5>young stunners</h5>
+                            </a>
+                            <p>Songs</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item a">
+                    <div class="single-album">
+                        <img src="img/artist/billiee 8.webp" alt="">
+                        <div class="album-info">
+                            <a href="/billie">
+                                <h5>billie</h5>
                             </a>
                             <p>Songs</p>
                         </div>
@@ -210,15 +223,126 @@
                         </div>
                     </div>
 
+  <!-- Single Album -->
+  <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item d">
+                        <div class="single-album">
+                            <img src="img/bg-img/a12.jpg" alt="">
+                            <div class="album-info">
+                                <a href="/2016">
+                                    <h5>Year (2016)</h5>
+                                </a>
+                                <p>Songs</p>
+                            </div>
+                        </div>
+                    </div>
+
+                      <!-- Single Album -->
+                      <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item d">
+                        <div class="single-album">
+                            <img src="img/bg-img/a12.jpg" alt="">
+                            <div class="album-info">
+                                <a href="/2017">
+                                    <h5>Year (2017)</h5>
+                                </a>
+                                <p>Songs</p>
+                            </div>
+                        </div>
+                    </div>
+
+                      <!-- Single Album -->
+                      <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item d">
+                        <div class="single-album">
+                            <img src="img/bg-img/a12.jpg" alt="">
+                            <div class="album-info">
+                                <a href="/2018">
+                                    <h5>Year (2018)</h5>
+                                </a>
+                                <p>Songs</p>
+                            </div>
+                        </div>
+                    </div>
+
+                      <!-- Single Album -->
+                      <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item d">
+                        <div class="single-album">
+                            <img src="img/bg-img/a12.jpg" alt="">
+                            <div class="album-info">
+                                <a href="/2019">
+                                    <h5>Year (2019)</h5>
+                                </a>
+                                <p>Songs</p>
+                            </div>
+                        </div>
+                    </div>
+
+                      <!-- Single Album -->
+                      <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item d">
+                        <div class="single-album">
+                            <img src="img/bg-img/a12.jpg" alt="">
+                            <div class="album-info">
+                                <a href="/2020">
+                                    <h5>Year (2020)</h5>
+                                </a>
+                                <p>Songs</p>
+                            </div>
+                        </div>
+                    </div>
+
+                      <!-- Single Album -->
+                      <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item d">
+                        <div class="single-album">
+                            <img src="img/bg-img/a12.jpg" alt="">
+                            <div class="album-info">
+                                <a href="/2022">
+                                    <h5>Year (2022)</h5>
+                                </a>
+                                <p>Songs</p>
+                            </div>
+                        </div>
+                    </div>
+
+                      <!-- Single Album -->
+                      <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item d">
+                        <div class="single-album">
+                            <img src="img/bg-img/a12.jpg" alt="">
+                            <div class="album-info">
+                                <a href="/2023">
+                                    <h5>Year (2023)</h5>
+                                </a>
+                                <p>Songs</p>
+                            </div>
+                        </div>
+                    </div>
+
+     <!-- Single Album -->
+     <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item e">
+        <div class="single-album">
+            <img src="img/bg-img/a12.jpg" alt="">
+            <div class="album-info">
+                <a href="/urdu">
+                    <h5>URDU</h5>
+                </a>
+                <p>Songs</p>
+            </div>
+        </div>
+    </div>
+
+ <!-- Single Album -->
+ <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item e">
+        <div class="single-album">
+            <img src="img/bg-img/a12.jpg" alt="">
+            <div class="album-info">
+                <a href="/english">
+                    <h5>ENGLISH</h5>
+                </a>
+                <p>Songs</p>
+            </div>
+        </div>
+    </div>
 
 
 
 
-
-
-
-
-                    
             </div>
         </div>
     </section>
