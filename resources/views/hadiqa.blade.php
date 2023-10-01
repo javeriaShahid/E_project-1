@@ -1,7 +1,7 @@
 @extends("components.header")
 @section("new")
     <!-- ##### Breadcumb Area Start ##### -->
-    <section class="breadcumb-area bg-img-19 bg-overlay">
+    <section class="breadcumb-area bg-img-100 bg-overlay">
         <div class="bradcumbContent">
             <p>Songs</p>
             <h2>Hadiqa Kiani</h2>
